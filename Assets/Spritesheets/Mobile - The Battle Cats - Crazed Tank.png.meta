@@ -1,0 +1,2151 @@
+fileFormatVersion: 2
+guid: 20f670b8a4a388f4b89d6a66b805ad46
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 466
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e700aa2b174f704cb09f30a762447d6
+      internalID: 1698439828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 466
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21076066ef004444a5f95ceae8aa7b0
+      internalID: 613190612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 466
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ae6d9e762e78f4c9dc1088fef8f3fb
+      internalID: -983120963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 466
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff33fe99c0004c948866d08290d45e6d
+      internalID: -1344390218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 466
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9969463e94eec428ca2aec93eaae8f
+      internalID: 1424491851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 466
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731c0ed569cd00f439093eaa6329cdb0
+      internalID: 1525214996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_6
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 466
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7238e308fb55274389da0566b3eeca0
+      internalID: -1013548118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_7
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 466
+        width: 67
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb9f2b99d82fd84aa4050f6d6614060
+      internalID: -1315479555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_8
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 466
+        width: 56
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f548cf69a75d72418e9566e292524b5
+      internalID: 297002096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_9
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 466
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b7df3b9f108bb45a14a50d7095ad89
+      internalID: -788189423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 449
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8512c04c24616c4199cd3e02a688e5b
+      internalID: 2057217276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_11
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 449
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476c101d36453324e9a5f53157c68d67
+      internalID: 2111038964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_12
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 449
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49f25d3b8d48eb4caaf73980e0e2c3d
+      internalID: 107997972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 360
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034a8c40c6fe5e14fac676379c85dad5
+      internalID: 887700142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_14
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 360
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1bcba73ad71c347bb56ab084b6e211
+      internalID: -1527449172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 360
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2016adfee8d62f34e99e4dd6839ff8b8
+      internalID: 1909164650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_16
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 360
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6d31d8aa6e5cf46bdf3a52faf66238
+      internalID: 229140767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_17
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 360
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b148f2b6dc2302b4f9c7cc3cc6792546
+      internalID: 268441629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_18
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 331
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee5e6f6a854be84bb1fcb579f8b22bb
+      internalID: 815591442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_19
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 331
+        width: 71
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9e703b132f3c34485dcb92961e4f00
+      internalID: -2018388750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_20
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 331
+        width: 71
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d945c3820e32d04fbb16ac6b077506f
+      internalID: -1901906692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_21
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 330
+        width: 81
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb64d1abaa495541959f5fe939933e4
+      internalID: -1269965104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_22
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 331
+        width: 82
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b62025f07849a428c2778e5bec9157
+      internalID: 829767120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_23
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 331
+        width: 82
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d70c178cfce1347afc0e5ede28689b
+      internalID: 162394707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 343
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba68495bb84a9cf4281dd6d614279861
+      internalID: 1679003039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 242
+        width: 49
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20195e87c56799942b880d150a4642b3
+      internalID: -1222470740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_26
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 242
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1560b39db976024aabcb78dd8957c72
+      internalID: -1441144895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 242
+        width: 79
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ee0e6ef696b93438f708afc2e36e33
+      internalID: 1279891384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_28
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 314
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5f2dc7bf8dd69428c6dd0cdf979a19
+      internalID: -320150810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_29
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 315
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4805988174729c4aaddb9bc9ba82df8
+      internalID: -1959952219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 242
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784e86035839c0c4aab4eb3fd5acd00f
+      internalID: 252914849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_31
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 196
+        width: 75
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f3b038dba6a6b45838ca4865d17783
+      internalID: 2139295073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_32
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 197
+        width: 71
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c46f07f458a624393d50e2fa0f666c
+      internalID: -1445356216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_33
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 196
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd5bdfc1e0afdc4eb4bbe73b8c03dba
+      internalID: 502857017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_34
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 170
+        width: 141
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea6639b92b27a6448844bb6a74d8357
+      internalID: -1733829168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_35
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 198
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fcccb7eb06bce4da9b8c582cabb9fa
+      internalID: 2015761898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_36
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 200
+        width: 81
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de28fc29c7d8a3d4a931c4ceb4aa1faf
+      internalID: -1104012380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_37
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 200
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a555034857bfb49b8c90cf8a20c211
+      internalID: 483072494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_38
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 174
+        width: 140
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400ffc9e4f615274db7ebc5b973543e4
+      internalID: 306660512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_39
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 225
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1363cfbd534fe6d41809f6982bd66542
+      internalID: 1566012583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 124
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d7509a9d333144a9638e09d2b2f4bc
+      internalID: 881003616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_41
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 170
+        width: 150
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63321325116b124baccd81625093338
+      internalID: 1629876210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_42
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 203
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1dd3b5d222961458814b4868a39c00
+      internalID: -855123040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_43
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 170
+        width: 111
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c275d59a4841195418aa2da9d120dcc2
+      internalID: 1925778584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_44
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 170
+        width: 101
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dff5a3585c574438a556cd0ed68bbe
+      internalID: -1412663019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_45
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 174
+        width: 153
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78530661038070f419ecf3e157dba89a
+      internalID: 1534305555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_46
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 190
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d370fc80f9bde5e4d9c191f6fe4cecc4
+      internalID: 1749819096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_47
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 206
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58420f220a66a774eac7338dd90f0a04
+      internalID: 552358778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_48
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 174
+        width: 115
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591022602828f4248981e766c80a97c0
+      internalID: -485297745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_49
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 172
+        width: 103
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa757479e38d19419c429d3103686bb
+      internalID: -189265475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_50
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 188
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5de41922829b84fb3e9de3a06d8c7e
+      internalID: -520831601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_51
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 178
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81045b09f1f95f044aee546cc97613c0
+      internalID: -1895612849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_52
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 182
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ba81115e270ce418da69f6d3b1d3ac
+      internalID: -958414044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_53
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 172
+        width: 62
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066ac7c5f290391448b409face9eb536
+      internalID: 1158830519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_54
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 170
+        width: 62
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2870ed3c12b67248b307a682b6835e2
+      internalID: 1116985268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_55
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 170
+        width: 62
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18b2823fa8bc0445adf134cd9eafda8
+      internalID: -139035896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_56
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 174
+        width: 62
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0a28b80726b9f4eb5433e6cd88ab96
+      internalID: 1111981492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_57
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 174
+        width: 62
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8f542d641e0b843b3c943ef7626710
+      internalID: 1970136365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_58
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 174
+        width: 62
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beebd969b688e114dacd18860328212b
+      internalID: -768236683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_59
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 155
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadd68170ed0be94097408c4c24ff6c2
+      internalID: -982130969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_60
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 155
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccb7601ae74a7645ad941d514707963
+      internalID: 567658100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_61
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 107
+        width: 52
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e987e736f9a0d4428083a8e568d5af7
+      internalID: -399221661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_62
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 37
+        width: 75
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b9f30c2b5f96d449c63802c8eb6b28
+      internalID: 135839067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_63
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 37
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67fbdfd3ffc3db4b99981033d2a7284
+      internalID: 1291287622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_64
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 100
+        width: 46
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ab6c1849958994b87b3fa169b5b44b
+      internalID: -1582622711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_65
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 28
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054f8a461b85618429664840a469cfce
+      internalID: 457128697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_66
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 28
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cc8aa35a7b04242bf61e146b749098
+      internalID: 643374267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_67
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 28
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8104765a191eebd4c9db40f2e1077b97
+      internalID: 1373101931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_68
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 33
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1e0d8ba6197b743be60c32bd7a9ca5
+      internalID: -1301355143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_69
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 28
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a591d9490ae1294cb230ded3c42bdd2
+      internalID: -1076639989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_70
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 28
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f08d4958eacff3419480a0b8992c9a2
+      internalID: -197503780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_71
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 33
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9500b56dede4b459a686dbaa54d618
+      internalID: -1623732810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_72
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 33
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d07300e09bc3124b9295cd50dcc82fe
+      internalID: 1889408985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_73
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 33
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587f3c65ad08e6340997a4366b0a03e1
+      internalID: 1736637877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_74
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 33
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc5663f06797eb4383205f32ce88654
+      internalID: 2070104678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_75
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 33
+        width: 41
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30f2b397fba7934b8eb9996d4ecb0ae
+      internalID: -1331778673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_76
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 28
+        width: 82
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4159ca7763287394c96dfdc21e79c89e
+      internalID: -1771063041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_77
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 33
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5b7278780f8c941b6d875c17ab98b6
+      internalID: -25225422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_78
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 33
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c03b2ba64ff2f04bb16f44a9a71a81c
+      internalID: -1324510251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_79
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 28
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa01baea944fa84d8989d9ffe128310
+      internalID: -29478327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_80
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 33
+        width: 41
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc5ad18e0e2f634a99961763da6032b
+      internalID: -1820324493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_81
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 33
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dcbb73cc99dd6489622fec6eec5446
+      internalID: -1886158111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_82
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 33
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4366a547dc0a31c45b71a5c45b2c62e5
+      internalID: 673957205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_83
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 33
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51876a82ca635de48ab19ae9bf7f0e00
+      internalID: 767916294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_84
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 7
+        width: 62
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998abfce1bc2c8d48943c87970187b9d
+      internalID: -509651765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_85
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 11
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15be7ef9152a1ce4684a5a2fcfb1c34f
+      internalID: 1898900462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_86
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 11
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095fe6315df0f1d47b4356c5dfcdf89b
+      internalID: -921087357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_87
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 11
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c50246aa974d6048a299974d2f7ca68
+      internalID: 1525278231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_88
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 6
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5c6a53dc448c34f99eab730d18f0b6
+      internalID: -1683317782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_89
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 11
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3403c7a42c02d84d9191d2bb736a47b
+      internalID: -487367217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_90
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 11
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accd2458a63e4b54c9bdbccd54765c04
+      internalID: 1586771905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Tank_91
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 5
+        width: 62
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba89be7d1cdeb7845b14a56717193b28
+      internalID: -1240307274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - The Battle Cats - Crazed Tank_0: 1698439828
+      Mobile - The Battle Cats - Crazed Tank_1: 613190612
+      Mobile - The Battle Cats - Crazed Tank_10: 2057217276
+      Mobile - The Battle Cats - Crazed Tank_11: 2111038964
+      Mobile - The Battle Cats - Crazed Tank_12: 107997972
+      Mobile - The Battle Cats - Crazed Tank_13: 887700142
+      Mobile - The Battle Cats - Crazed Tank_14: -1527449172
+      Mobile - The Battle Cats - Crazed Tank_15: 1909164650
+      Mobile - The Battle Cats - Crazed Tank_16: 229140767
+      Mobile - The Battle Cats - Crazed Tank_17: 268441629
+      Mobile - The Battle Cats - Crazed Tank_18: 815591442
+      Mobile - The Battle Cats - Crazed Tank_19: -2018388750
+      Mobile - The Battle Cats - Crazed Tank_2: -983120963
+      Mobile - The Battle Cats - Crazed Tank_20: -1901906692
+      Mobile - The Battle Cats - Crazed Tank_21: -1269965104
+      Mobile - The Battle Cats - Crazed Tank_22: 829767120
+      Mobile - The Battle Cats - Crazed Tank_23: 162394707
+      Mobile - The Battle Cats - Crazed Tank_24: 1679003039
+      Mobile - The Battle Cats - Crazed Tank_25: -1222470740
+      Mobile - The Battle Cats - Crazed Tank_26: -1441144895
+      Mobile - The Battle Cats - Crazed Tank_27: 1279891384
+      Mobile - The Battle Cats - Crazed Tank_28: -320150810
+      Mobile - The Battle Cats - Crazed Tank_29: -1959952219
+      Mobile - The Battle Cats - Crazed Tank_3: -1344390218
+      Mobile - The Battle Cats - Crazed Tank_30: 252914849
+      Mobile - The Battle Cats - Crazed Tank_31: 2139295073
+      Mobile - The Battle Cats - Crazed Tank_32: -1445356216
+      Mobile - The Battle Cats - Crazed Tank_33: 502857017
+      Mobile - The Battle Cats - Crazed Tank_34: -1733829168
+      Mobile - The Battle Cats - Crazed Tank_35: 2015761898
+      Mobile - The Battle Cats - Crazed Tank_36: -1104012380
+      Mobile - The Battle Cats - Crazed Tank_37: 483072494
+      Mobile - The Battle Cats - Crazed Tank_38: 306660512
+      Mobile - The Battle Cats - Crazed Tank_39: 1566012583
+      Mobile - The Battle Cats - Crazed Tank_4: 1424491851
+      Mobile - The Battle Cats - Crazed Tank_40: 881003616
+      Mobile - The Battle Cats - Crazed Tank_41: 1629876210
+      Mobile - The Battle Cats - Crazed Tank_42: -855123040
+      Mobile - The Battle Cats - Crazed Tank_43: 1925778584
+      Mobile - The Battle Cats - Crazed Tank_44: -1412663019
+      Mobile - The Battle Cats - Crazed Tank_45: 1534305555
+      Mobile - The Battle Cats - Crazed Tank_46: 1749819096
+      Mobile - The Battle Cats - Crazed Tank_47: 552358778
+      Mobile - The Battle Cats - Crazed Tank_48: -485297745
+      Mobile - The Battle Cats - Crazed Tank_49: -189265475
+      Mobile - The Battle Cats - Crazed Tank_5: 1525214996
+      Mobile - The Battle Cats - Crazed Tank_50: -520831601
+      Mobile - The Battle Cats - Crazed Tank_51: -1895612849
+      Mobile - The Battle Cats - Crazed Tank_52: -958414044
+      Mobile - The Battle Cats - Crazed Tank_53: 1158830519
+      Mobile - The Battle Cats - Crazed Tank_54: 1116985268
+      Mobile - The Battle Cats - Crazed Tank_55: -139035896
+      Mobile - The Battle Cats - Crazed Tank_56: 1111981492
+      Mobile - The Battle Cats - Crazed Tank_57: 1970136365
+      Mobile - The Battle Cats - Crazed Tank_58: -768236683
+      Mobile - The Battle Cats - Crazed Tank_59: -982130969
+      Mobile - The Battle Cats - Crazed Tank_6: -1013548118
+      Mobile - The Battle Cats - Crazed Tank_60: 567658100
+      Mobile - The Battle Cats - Crazed Tank_61: -399221661
+      Mobile - The Battle Cats - Crazed Tank_62: 135839067
+      Mobile - The Battle Cats - Crazed Tank_63: 1291287622
+      Mobile - The Battle Cats - Crazed Tank_64: -1582622711
+      Mobile - The Battle Cats - Crazed Tank_65: 457128697
+      Mobile - The Battle Cats - Crazed Tank_66: 643374267
+      Mobile - The Battle Cats - Crazed Tank_67: 1373101931
+      Mobile - The Battle Cats - Crazed Tank_68: -1301355143
+      Mobile - The Battle Cats - Crazed Tank_69: -1076639989
+      Mobile - The Battle Cats - Crazed Tank_7: -1315479555
+      Mobile - The Battle Cats - Crazed Tank_70: -197503780
+      Mobile - The Battle Cats - Crazed Tank_71: -1623732810
+      Mobile - The Battle Cats - Crazed Tank_72: 1889408985
+      Mobile - The Battle Cats - Crazed Tank_73: 1736637877
+      Mobile - The Battle Cats - Crazed Tank_74: 2070104678
+      Mobile - The Battle Cats - Crazed Tank_75: -1331778673
+      Mobile - The Battle Cats - Crazed Tank_76: -1771063041
+      Mobile - The Battle Cats - Crazed Tank_77: -25225422
+      Mobile - The Battle Cats - Crazed Tank_78: -1324510251
+      Mobile - The Battle Cats - Crazed Tank_79: -29478327
+      Mobile - The Battle Cats - Crazed Tank_8: 297002096
+      Mobile - The Battle Cats - Crazed Tank_80: -1820324493
+      Mobile - The Battle Cats - Crazed Tank_81: -1886158111
+      Mobile - The Battle Cats - Crazed Tank_82: 673957205
+      Mobile - The Battle Cats - Crazed Tank_83: 767916294
+      Mobile - The Battle Cats - Crazed Tank_84: -509651765
+      Mobile - The Battle Cats - Crazed Tank_85: 1898900462
+      Mobile - The Battle Cats - Crazed Tank_86: -921087357
+      Mobile - The Battle Cats - Crazed Tank_87: 1525278231
+      Mobile - The Battle Cats - Crazed Tank_88: -1683317782
+      Mobile - The Battle Cats - Crazed Tank_89: -487367217
+      Mobile - The Battle Cats - Crazed Tank_9: -788189423
+      Mobile - The Battle Cats - Crazed Tank_90: 1586771905
+      Mobile - The Battle Cats - Crazed Tank_91: -1240307274
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

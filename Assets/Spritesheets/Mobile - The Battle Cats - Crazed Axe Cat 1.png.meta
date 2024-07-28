@@ -1,0 +1,2305 @@
+fileFormatVersion: 2
+guid: 72a7488039a24644981dd8d10b55c2b8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 295
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bf89d201373c04bad36544f539c847
+      internalID: -387942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 295
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbdc98d66550894b9f3d02e1858765e
+      internalID: 1997396614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 295
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d16d72552067cb42a9f2a276af3f179
+      internalID: 271907449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 295
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf624166c7d08643897d92d5e1d60ae
+      internalID: -1251581319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_4
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 295
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554af6c6b748a5440b932a110d1c45e2
+      internalID: -903891142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 295
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df4939d1934113458a1ec4507ee7c8d
+      internalID: 1758911291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_6
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 295
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c3fe27bbd0ca742afbf15626548ffb
+      internalID: -1088072610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_7
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 295
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb6b28b5c7c4534c9e9043a85239ccb
+      internalID: 933920845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_8
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 295
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93314222e140694d995e5e98eaf6802
+      internalID: -442023097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 278
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84f18bc698540a45801319275d8788a
+      internalID: 247171546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_10
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 278
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c1cccbda060204a8a71f9f8de07646
+      internalID: -619546212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_11
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 278
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd6c36d893672a4bb42423a082e4c3a
+      internalID: -1629183150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_12
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 235
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b073ad2fbd9a3674aa40ef0ec2a48232
+      internalID: 734661050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 216
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72a74552e0d61943b1cc114704d3b07
+      internalID: -1062757668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 216
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbf1ced8cd8ce04f8bb6af63b93d0ac
+      internalID: 1300232382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 216
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feb21fbf7d17784785f5d2cfbda03bd
+      internalID: 963968646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_16
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 205
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df3ba40daddad24191cc9763104a278
+      internalID: -1490660143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 205
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa19077990e0cd449b638a361cc98e2a
+      internalID: 1576519518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_18
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 202
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5a6cb65029bae41a30c675daaa81ed
+      internalID: -222081824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_19
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 235
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95814b3b6d41ddb4fae7b5b61e8e1de2
+      internalID: 2084692569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_20
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 260
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107c05c537e60b349ae8be493e7dc233
+      internalID: -1174969248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_21
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 234
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1a735e1766be740a7cdc054226bc69
+      internalID: -354150815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_22
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 234
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d836dbb146259418c84db5cbca99fc
+      internalID: 1379660217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_23
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 234
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6b7ec7852c9864794c6ac89dc57005
+      internalID: 1257663118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_24
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 234
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38c1ab6e7d60514c86c1b37967e470f
+      internalID: -457476702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_25
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 234
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd9dc201735c684d81fe56b6bc67ec8
+      internalID: -658995200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_26
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 234
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768547907f0203342ba5a142155b0482
+      internalID: 1815333319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_27
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 235
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f4c1518ede24140942fb9629fa393c
+      internalID: -552540057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_28
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 234
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7aa9be5b85442c45aeee78876766c79
+      internalID: 1187275684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_29
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 234
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b87e0ea948394544b58f950e62ab3ce
+      internalID: -1449939194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_30
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 234
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c89806c2a4726f43a243daa6dbe0afd
+      internalID: -562486743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_31
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 235
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e04164ead499f48b4be447beb9cdec
+      internalID: -2040487911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_32
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 234
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bf1d2b5281fff4ca5d28ffd76f5f09
+      internalID: 121336025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_33
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 235
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ed3ebf867b20443aa874affd2f3c15
+      internalID: -1554694409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_34
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 235
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ab1d6c46d35744a8943887c50a1725
+      internalID: 1200611858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_35
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 235
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9521950ca0c058f4a93f97c66744acd3
+      internalID: 1210792179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_36
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 235
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d47d8af6be49f84bae9ba4681f1f38a
+      internalID: 87883436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_37
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 235
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3c13c2ffd0b254cb9c4c287b5ad7fc
+      internalID: -1450297336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_38
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 235
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4163b56b0b9c3014b9bb6e558d8ab25a
+      internalID: 332652779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_39
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 235
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac130e5f8078f14e8b1c5e9dc2e7eba
+      internalID: -104567307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_40
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 218
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9806c7787e1b447b5e4c15bd7b4abc
+      internalID: 2027091036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_41
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 166
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18940d91144595f41b05be182f283136
+      internalID: 711997947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 199
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07649b769b36aa84b83c185e14265a2c
+      internalID: 1925133095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_43
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 188
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175c01a775bd35b4faf5afb95471414f
+      internalID: 900927148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_44
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 166
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e97e60695cf69446af17853b47aec7c
+      internalID: 1167805393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_45
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 166
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fe0c0f25bcb8f44b9458824dd09a5e
+      internalID: -1079299446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_46
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 166
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc38cfe2bd5d82b429077eb6435c925f
+      internalID: -506951082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_47
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 110
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76fab8b982a67a4fb7ed390b250c707
+      internalID: 1649641858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 110
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce1d6c62800ea446b765194f55433be
+      internalID: -1985135526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 110
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a86525721db6804db83ac114d104ebb
+      internalID: 1331839516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_50
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 104
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1789f3b3515e3e944adf0f448080d5ec
+      internalID: 1107714996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_51
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 104
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fab10380e88ce42a66d2aa215a8e48
+      internalID: -406073242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_52
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 104
+        width: 99
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54272b4e5ad3cdf44aae37e8bea80b70
+      internalID: 1634278107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_53
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 166
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5457268bcec75e4f88997be8018c6c7
+      internalID: -604301302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_54
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 166
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3418055955b7cd4aa742541707f05ba
+      internalID: 265001798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_55
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 166
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11de659b5fd997747bdf875012f3b2e7
+      internalID: -1718750318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_56
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 166
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f0970909c54cd4dbb8ce746c0cda73
+      internalID: 1783657813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_57
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 169
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cce8b86d726dce4697248afd4124b75
+      internalID: 2076819939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_58
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 110
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17566d72a5f13394e8cdb7c03ff3962c
+      internalID: -294975550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_59
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 104
+        width: 99
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b834b26f80330ef40bdee2f2bc5ef582
+      internalID: 558658212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_60
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 148
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97fb800166276a4db093940ba6d10ec
+      internalID: 1913238516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_61
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 121
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8a56c876b589447ad2e6340cd9f984
+      internalID: -800697514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_62
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 122
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eabf21759f122a42bf1bcf19d3a8635
+      internalID: 18666823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_63
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 121
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2394b2058f20a741903d03aca635dda
+      internalID: 1309185477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_64
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 121
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e66e7befa3ca348a634adca5df404d
+      internalID: -708099883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_65
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 121
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00b6952fa2e45046a712499fda565be
+      internalID: -779318707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_66
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 126
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158c071addd7c2540af001f26446a0b2
+      internalID: 1083898662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_67
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 126
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802584f40ed6b714db482a2ab3abbe1c
+      internalID: -1308668182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_68
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 121
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fafa0e1fd5967948b7e0cc5dffa95fc
+      internalID: 1818793325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_69
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 121
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bf66b85d2c0a941b04572b4cc5fefc
+      internalID: -662337077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_70
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 123
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ea4ab63d455064290c8eef7bdf319c
+      internalID: 69824419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_71
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 127
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d598dca28a045c147beef3eec9ee3806
+      internalID: 1512770046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_72
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 121
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f9525589b35314e9bc181d42e3132d
+      internalID: -1953617469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_73
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 125
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc917090ad99e74caa62b539307202d
+      internalID: -297333503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_74
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 121
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366e89d352749a64d969d8cc8a93472e
+      internalID: 130757203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_75
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 121
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cc443b78cee554e8e14d3e25969d5c
+      internalID: 2045216789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_76
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 121
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77733c1db431314aa0b96c51cb72ccc
+      internalID: -962371478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_77
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 93
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89d9ad1fff8ce64e834a4815b3bc668
+      internalID: -1085234486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_78
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 86
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980c6f63c233dbe459146d64a9acc298
+      internalID: 967186890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_79
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 74
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4114d6620374aa46bb42ea7cdf04370
+      internalID: 910779884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_80
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 75
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1572d91b47fb4043be08027ba53521e
+      internalID: -1944485664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_81
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 73
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead9525f24ebc044bba4df2cad934422
+      internalID: 1013470569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_82
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 51
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71890a1a2a7d781479eee7fa374b6a0d
+      internalID: -1411905911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_83
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a2a31a78607bb48831d3da97b0993f
+      internalID: 1355016602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_84
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 60
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c573ff2b2489d3e4d8006f6b15ff9a68
+      internalID: -978851570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_85
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 60
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6098d76660f93e047a1fa9d9643b780b
+      internalID: -213462267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_86
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 60
+        width: 63
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beda0fcedf2b5245a7d0392142bae03
+      internalID: -1034053293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_87
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 41
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a350fce304f77c4c9c7475a5e122f05
+      internalID: -1329889619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_88
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 45
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4f66edb1655244a9748eb449e5637a
+      internalID: 484592540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_89
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 45
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c18146faedda24c98a5284d1b0d5b8
+      internalID: -1281910893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_90
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 41
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdee1642d2cddc45b6f2a9bc6813439
+      internalID: -1670868716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_91
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 26
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4ff06798d4fbd4598b45ebfa4011ee
+      internalID: 742279226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_92
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 26
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ee1e00fbe077341847dc32bf6f6501
+      internalID: -1939116792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_93
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 26
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c04bbbc90c87914ab819b43e2fe9357
+      internalID: 1706475282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_94
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 26
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff898941f631954fb2e2540e8fedc02
+      internalID: 1058279407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_95
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 26
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cd2a6d34e8d7240befd269fac96618
+      internalID: -628533417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_96
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 3
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f759e24d3f3d44fae2e1ce9eb964e0
+      internalID: 1716541109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_97
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 7
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6c73dd5d46ac94382f3ed6c64bd7ea
+      internalID: -88595579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Crazed Axe Cat 1_98
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 7
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25f738f1c85ee74fa5985ae141226f2
+      internalID: -454832439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - The Battle Cats - Crazed Axe Cat 1_0: -387942
+      Mobile - The Battle Cats - Crazed Axe Cat 1_1: 1997396614
+      Mobile - The Battle Cats - Crazed Axe Cat 1_10: -619546212
+      Mobile - The Battle Cats - Crazed Axe Cat 1_11: -1629183150
+      Mobile - The Battle Cats - Crazed Axe Cat 1_12: 734661050
+      Mobile - The Battle Cats - Crazed Axe Cat 1_13: -1062757668
+      Mobile - The Battle Cats - Crazed Axe Cat 1_14: 1300232382
+      Mobile - The Battle Cats - Crazed Axe Cat 1_15: 963968646
+      Mobile - The Battle Cats - Crazed Axe Cat 1_16: -1490660143
+      Mobile - The Battle Cats - Crazed Axe Cat 1_17: 1576519518
+      Mobile - The Battle Cats - Crazed Axe Cat 1_18: -222081824
+      Mobile - The Battle Cats - Crazed Axe Cat 1_19: 2084692569
+      Mobile - The Battle Cats - Crazed Axe Cat 1_2: 271907449
+      Mobile - The Battle Cats - Crazed Axe Cat 1_20: -1174969248
+      Mobile - The Battle Cats - Crazed Axe Cat 1_21: -354150815
+      Mobile - The Battle Cats - Crazed Axe Cat 1_22: 1379660217
+      Mobile - The Battle Cats - Crazed Axe Cat 1_23: 1257663118
+      Mobile - The Battle Cats - Crazed Axe Cat 1_24: -457476702
+      Mobile - The Battle Cats - Crazed Axe Cat 1_25: -658995200
+      Mobile - The Battle Cats - Crazed Axe Cat 1_26: 1815333319
+      Mobile - The Battle Cats - Crazed Axe Cat 1_27: -552540057
+      Mobile - The Battle Cats - Crazed Axe Cat 1_28: 1187275684
+      Mobile - The Battle Cats - Crazed Axe Cat 1_29: -1449939194
+      Mobile - The Battle Cats - Crazed Axe Cat 1_3: -1251581319
+      Mobile - The Battle Cats - Crazed Axe Cat 1_30: -562486743
+      Mobile - The Battle Cats - Crazed Axe Cat 1_31: -2040487911
+      Mobile - The Battle Cats - Crazed Axe Cat 1_32: 121336025
+      Mobile - The Battle Cats - Crazed Axe Cat 1_33: -1554694409
+      Mobile - The Battle Cats - Crazed Axe Cat 1_34: 1200611858
+      Mobile - The Battle Cats - Crazed Axe Cat 1_35: 1210792179
+      Mobile - The Battle Cats - Crazed Axe Cat 1_36: 87883436
+      Mobile - The Battle Cats - Crazed Axe Cat 1_37: -1450297336
+      Mobile - The Battle Cats - Crazed Axe Cat 1_38: 332652779
+      Mobile - The Battle Cats - Crazed Axe Cat 1_39: -104567307
+      Mobile - The Battle Cats - Crazed Axe Cat 1_4: -903891142
+      Mobile - The Battle Cats - Crazed Axe Cat 1_40: 2027091036
+      Mobile - The Battle Cats - Crazed Axe Cat 1_41: 711997947
+      Mobile - The Battle Cats - Crazed Axe Cat 1_42: 1925133095
+      Mobile - The Battle Cats - Crazed Axe Cat 1_43: 900927148
+      Mobile - The Battle Cats - Crazed Axe Cat 1_44: 1167805393
+      Mobile - The Battle Cats - Crazed Axe Cat 1_45: -1079299446
+      Mobile - The Battle Cats - Crazed Axe Cat 1_46: -506951082
+      Mobile - The Battle Cats - Crazed Axe Cat 1_47: 1649641858
+      Mobile - The Battle Cats - Crazed Axe Cat 1_48: -1985135526
+      Mobile - The Battle Cats - Crazed Axe Cat 1_49: 1331839516
+      Mobile - The Battle Cats - Crazed Axe Cat 1_5: 1758911291
+      Mobile - The Battle Cats - Crazed Axe Cat 1_50: 1107714996
+      Mobile - The Battle Cats - Crazed Axe Cat 1_51: -406073242
+      Mobile - The Battle Cats - Crazed Axe Cat 1_52: 1634278107
+      Mobile - The Battle Cats - Crazed Axe Cat 1_53: -604301302
+      Mobile - The Battle Cats - Crazed Axe Cat 1_54: 265001798
+      Mobile - The Battle Cats - Crazed Axe Cat 1_55: -1718750318
+      Mobile - The Battle Cats - Crazed Axe Cat 1_56: 1783657813
+      Mobile - The Battle Cats - Crazed Axe Cat 1_57: 2076819939
+      Mobile - The Battle Cats - Crazed Axe Cat 1_58: -294975550
+      Mobile - The Battle Cats - Crazed Axe Cat 1_59: 558658212
+      Mobile - The Battle Cats - Crazed Axe Cat 1_6: -1088072610
+      Mobile - The Battle Cats - Crazed Axe Cat 1_60: 1913238516
+      Mobile - The Battle Cats - Crazed Axe Cat 1_61: -800697514
+      Mobile - The Battle Cats - Crazed Axe Cat 1_62: 18666823
+      Mobile - The Battle Cats - Crazed Axe Cat 1_63: 1309185477
+      Mobile - The Battle Cats - Crazed Axe Cat 1_64: -708099883
+      Mobile - The Battle Cats - Crazed Axe Cat 1_65: -779318707
+      Mobile - The Battle Cats - Crazed Axe Cat 1_66: 1083898662
+      Mobile - The Battle Cats - Crazed Axe Cat 1_67: -1308668182
+      Mobile - The Battle Cats - Crazed Axe Cat 1_68: 1818793325
+      Mobile - The Battle Cats - Crazed Axe Cat 1_69: -662337077
+      Mobile - The Battle Cats - Crazed Axe Cat 1_7: 933920845
+      Mobile - The Battle Cats - Crazed Axe Cat 1_70: 69824419
+      Mobile - The Battle Cats - Crazed Axe Cat 1_71: 1512770046
+      Mobile - The Battle Cats - Crazed Axe Cat 1_72: -1953617469
+      Mobile - The Battle Cats - Crazed Axe Cat 1_73: -297333503
+      Mobile - The Battle Cats - Crazed Axe Cat 1_74: 130757203
+      Mobile - The Battle Cats - Crazed Axe Cat 1_75: 2045216789
+      Mobile - The Battle Cats - Crazed Axe Cat 1_76: -962371478
+      Mobile - The Battle Cats - Crazed Axe Cat 1_77: -1085234486
+      Mobile - The Battle Cats - Crazed Axe Cat 1_78: 967186890
+      Mobile - The Battle Cats - Crazed Axe Cat 1_79: 910779884
+      Mobile - The Battle Cats - Crazed Axe Cat 1_8: -442023097
+      Mobile - The Battle Cats - Crazed Axe Cat 1_80: -1944485664
+      Mobile - The Battle Cats - Crazed Axe Cat 1_81: 1013470569
+      Mobile - The Battle Cats - Crazed Axe Cat 1_82: -1411905911
+      Mobile - The Battle Cats - Crazed Axe Cat 1_83: 1355016602
+      Mobile - The Battle Cats - Crazed Axe Cat 1_84: -978851570
+      Mobile - The Battle Cats - Crazed Axe Cat 1_85: -213462267
+      Mobile - The Battle Cats - Crazed Axe Cat 1_86: -1034053293
+      Mobile - The Battle Cats - Crazed Axe Cat 1_87: -1329889619
+      Mobile - The Battle Cats - Crazed Axe Cat 1_88: 484592540
+      Mobile - The Battle Cats - Crazed Axe Cat 1_89: -1281910893
+      Mobile - The Battle Cats - Crazed Axe Cat 1_9: 247171546
+      Mobile - The Battle Cats - Crazed Axe Cat 1_90: -1670868716
+      Mobile - The Battle Cats - Crazed Axe Cat 1_91: 742279226
+      Mobile - The Battle Cats - Crazed Axe Cat 1_92: -1939116792
+      Mobile - The Battle Cats - Crazed Axe Cat 1_93: 1706475282
+      Mobile - The Battle Cats - Crazed Axe Cat 1_94: 1058279407
+      Mobile - The Battle Cats - Crazed Axe Cat 1_95: -628533417
+      Mobile - The Battle Cats - Crazed Axe Cat 1_96: 1716541109
+      Mobile - The Battle Cats - Crazed Axe Cat 1_97: -88595579
+      Mobile - The Battle Cats - Crazed Axe Cat 1_98: -454832439
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

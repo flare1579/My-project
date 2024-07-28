@@ -1,0 +1,3471 @@
+fileFormatVersion: 2
+guid: f00807e78bbf5334d8d6f01708c32cf2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1168
+        width: 147
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8977b50dbc484db4ea4ea4316d09c2d4
+      internalID: -1173935373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1168
+        width: 88
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4038fbbd5b844da41a6988d04768e4ef
+      internalID: 1872362440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_2
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1168
+        width: 159
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046de51ec6dedf0458edecfc21011d9a
+      internalID: -873958153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_3
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1168
+        width: 87
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b64a62a1cdac84fb45c9c66859a7ce
+      internalID: 166088390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_4
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1168
+        width: 104
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c1e6accf656cd43b660b0155e070bc
+      internalID: -783633064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_5
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1168
+        width: 149
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98101cb80555b041ba02d3645b7dcc5
+      internalID: 303601480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_6
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1168
+        width: 88
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29896413624dbf34d9a30390fd8b5143
+      internalID: 1789507858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_7
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1164
+        width: 161
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5841455ce43454d8139a99895a47af
+      internalID: -1209271580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_8
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1168
+        width: 159
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81167f7e189f7914783397714f593885
+      internalID: -2024855538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_9
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 1164
+        width: 190
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70abcfb13e8724c4490842835dccf688
+      internalID: -1547158775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_10
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 1168
+        width: 171
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639efa1d202831e4da8f784a37544d64
+      internalID: -1571092130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_11
+      rect:
+        serializedVersion: 2
+        x: 3319
+        y: 1168
+        width: 104
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819cf4adfdece634a9dd761e06cd98bc
+      internalID: -724952883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_12
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 1164
+        width: 128
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5155da7d66813d4c8573cc60b3bfdee
+      internalID: 1521654168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_13
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 1168
+        width: 63
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568797df79a90ca4ca38bcbe40c20fde
+      internalID: -1183968786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_14
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 1168
+        width: 71
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837429936bdbfe344a9f267da8016ef4
+      internalID: -359936000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1144
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c38046cee9c4bf4eb54d2991494315d
+      internalID: 597242510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_16
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1144
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55baeb86624a41441b0e5c9d78026d67
+      internalID: -1205085707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_17
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1144
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24755775f894ff64fa13402987547fae
+      internalID: 1563387294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_18
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1144
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8460cbeed29a4304982aeaea4ef11643
+      internalID: 1019869644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_19
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 1144
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b9f23921c27cb4db11c7d507142ccc
+      internalID: -1590897741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 995
+        width: 91
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac45e635a0293574cbd2b9a3590177f4
+      internalID: -29310319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_21
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 995
+        width: 92
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c63f4bf88c2153419865978ad18f719
+      internalID: -176257330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_22
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 995
+        width: 90
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de956dfdf1829564695fd9ddf0a3c7bc
+      internalID: -907263129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_23
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 995
+        width: 92
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64180d26cc6fa5458e7aa7eed421baa
+      internalID: -1805595697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_24
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 995
+        width: 90
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f4e8e3cca5e004ab6cc4fd1166b16f
+      internalID: 1624288895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_25
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 1068
+        width: 175
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8a3a08db08a81409aa57e17ffa2209
+      internalID: 1895888639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_26
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1091
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2135973cdbff7ee4b9d2d4e2af64c879
+      internalID: 1982718282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_27
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 1026
+        width: 57
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c31a6db7de2518489a7cd464a566117
+      internalID: -2952757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_28
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 1066
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace6a3185ae85364f8e5ef5e311068eb
+      internalID: 1677467959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_29
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 1070
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2350eef1e8c75ea4c80a75a6a1978fd0
+      internalID: -151079870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_30
+      rect:
+        serializedVersion: 2
+        x: 3837
+        y: 1079
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03e255ef968eba4997099166876eec8
+      internalID: 1526674534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_31
+      rect:
+        serializedVersion: 2
+        x: 3928
+        y: 1068
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc0fffe029b9b243a78890c75177301
+      internalID: 1763470347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_32
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 993
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e33ebe09a1ae842b5798899b4b3dc4
+      internalID: -1738029756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_33
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 999
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13faae5afc3ff3a4b930fcf0f78444ad
+      internalID: -1614343390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_34
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 1007
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b7e9b7b7d590b4b8773593ae493413
+      internalID: -1571784235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_35
+      rect:
+        serializedVersion: 2
+        x: 3894
+        y: 1046
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae35c7db1268a6a4390be23fd085a1ba
+      internalID: -738793623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_36
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 1015
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dc3639fd6bbb6408bfa3e9fa25b2e8
+      internalID: -539365570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_37
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 1020
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ba976d6b342f44891567bcdbf18df9
+      internalID: -1159228976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_38
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1015
+        width: 199
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f9db667bb985a41aaaedf448b706f9
+      internalID: -372695737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_39
+      rect:
+        serializedVersion: 2
+        x: 3914
+        y: 846
+        width: 171
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cc8fef1dcb78c4db76d6fbd0157a36
+      internalID: 504184389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 958
+        width: 120
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e122810555cffde4fb79b338d3fced3c
+      internalID: 112144853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_41
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 958
+        width: 120
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b6b65d21a724e48a68ae3dbbb96b18
+      internalID: -382244665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_42
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 958
+        width: 120
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485e41022e6d17f45896e9a09fd5ebfa
+      internalID: -1434451610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_43
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 958
+        width: 122
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c667835a7d92dc340bccc7982ff5b04c
+      internalID: 270079073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_44
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 958
+        width: 120
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938c2abb38fd4e645a5d7d9caf6dd994
+      internalID: -1241063947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_45
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 877
+        width: 75
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b12217959fe704a8246d9aac2974b1
+      internalID: -991316377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_46
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 954
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5980109b03bb9b64696d8866e323fdbd
+      internalID: -1253712703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_47
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 954
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c43c9b194b02e74998774ef13ae201c
+      internalID: -1335445849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_48
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 969
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b933c4d70b38ec4d929bd390a48b88e
+      internalID: 1894989234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_49
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 879
+        width: 76
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9522094bf7e25a3478f45c333bfca9be
+      internalID: 2020075266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_50
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 922
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa20dadf6668e148ba1c1cc875f8186
+      internalID: -271913043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_51
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 805
+        width: 91
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaa2f5c83b2ef84ab101addd6b345f3
+      internalID: -1229257907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 805
+        width: 92
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8560a5462c0e04bb18d0fb370f01da
+      internalID: -1763927467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_53
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 805
+        width: 92
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4232f496c9a094687948d2683e7c78
+      internalID: -448204128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_54
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 805
+        width: 92
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff516b21dad3a4469d5a6e3d1972665
+      internalID: -1212174612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_55
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 805
+        width: 92
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759f4cbcc451697498812f715e989015
+      internalID: -947181265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_56
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 805
+        width: 91
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a9546d8d4dd9640b27b269cdc7b275
+      internalID: 1580492078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_57
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 805
+        width: 92
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf12bf381443c6408e57a5496ac7b01
+      internalID: 1362889053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_58
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 805
+        width: 91
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3f1a7d1d9d0714483ccb2573c3e664
+      internalID: -22062540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_59
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 805
+        width: 91
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d09168f0dc797e4ca6a13dcf8ddc176
+      internalID: 2119850459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_60
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 805
+        width: 92
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421b6ed6d885a6344bf7610dd5046865
+      internalID: 1918334752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_61
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 805
+        width: 90
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20a784ae9ab13943a7e803ef82a830d
+      internalID: 854308647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_62
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 805
+        width: 90
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7174c414415ee4aa19bc4c735cc390
+      internalID: 2113917249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_63
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 805
+        width: 90
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e46e8a32fb4ac7489fda1cb12017706
+      internalID: -676075233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_64
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 805
+        width: 90
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2441cf6de91581044850dc3dd63bb264
+      internalID: -691769379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_65
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 805
+        width: 90
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52417a9038b505c4785d724d3932650a
+      internalID: -196104502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_66
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 805
+        width: 90
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934814f9a834a004f94b4ed80a244324
+      internalID: -109287252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_67
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 805
+        width: 91
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21366282995be4242b0974aa50551501
+      internalID: -1676404444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_68
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 805
+        width: 91
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594ef03d78177874eafd5c3a2d5d0ebf
+      internalID: 817573538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_69
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 803
+        width: 92
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53c2dfe8d75ddd409ebcc6a797d9a24
+      internalID: -1625501047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_70
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 803
+        width: 91
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc846c5872a09e4781f24129b2db475
+      internalID: -230003325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_71
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 803
+        width: 91
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fb9d19c75f9ae4cb26b5d1ce19c540
+      internalID: -1180802350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_72
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 803
+        width: 92
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81730e4fbcf1aaa47980b18ebf70356b
+      internalID: -1076863557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_73
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 803
+        width: 92
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc505f7b3ab1554698bbb0fa8fa9b2c
+      internalID: -1214801897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_74
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 803
+        width: 92
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980503cfcf1fd5843993a87ffb9fc8f4
+      internalID: 1293478161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_75
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 805
+        width: 90
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e91528103d82c4a876e3b2322be37a
+      internalID: -842648321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_76
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 805
+        width: 90
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46daaa5eaf0fe90468e05c0f5f8d6045
+      internalID: 1939228325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_77
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 805
+        width: 90
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbed49d7d3cdd644595a5c16b71cf933
+      internalID: -1691902282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_78
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 805
+        width: 92
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef14c23e921bd884482541f43d4192b3
+      internalID: 52900744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_79
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 805
+        width: 91
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df298ad0639567041aa900314e56dc6d
+      internalID: -1196231810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_80
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 805
+        width: 91
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d248b45d67681604db14c8bb07858933
+      internalID: 401094214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_81
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 916
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935b12c7dac7b88428fbf7c2c46d07fc
+      internalID: -755570194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_82
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 909
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfc0acc54be0d24e990c8cb2abecba7
+      internalID: -206715405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_83
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 918
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1fe1f5d3f8b5a4dbf17322e451aff9
+      internalID: -893508824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_84
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 856
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d654050215fa5844c978a9f31617c4b9
+      internalID: 1080600309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_85
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 877
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09e1a7f3d5ca58428dab453086a0dc7
+      internalID: -1950195699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_86
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 871
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f090b2eec04c11d4f804e8454a8836cf
+      internalID: 365495352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_87
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 860
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12853aedb2918d24184d89339d7d162f
+      internalID: -1588524070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_88
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 748
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4c66d3c95f6eb42821f7c3e6002dc5
+      internalID: -433251881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_89
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 793
+        width: 71
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86072af0521f5d34bba488aae555b39b
+      internalID: 682258004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_90
+      rect:
+        serializedVersion: 2
+        x: 3317
+        y: 797
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7ad46735208f949b38ee3b52a63736
+      internalID: -1888814530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_91
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 809
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4e6c54dfc861f4b8f0b1f2a88bedd3
+      internalID: 1425561890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_92
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 708
+        width: 90
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6992bbf7115924046a7a530a348e96fc
+      internalID: -1735500062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_93
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 775
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9baa1dd2aad514b8e2283c372cb71c
+      internalID: 1501736183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_94
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 799
+        width: 55
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d6631b9d8eaa94d896d6a14354b3e2
+      internalID: -27926926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_95
+      rect:
+        serializedVersion: 2
+        x: 3979
+        y: 809
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fad220bfde167a4aac2c73952145f6a
+      internalID: 1191522793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_96
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 809
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ff33106bc94954d887758f9d3c5380
+      internalID: -538938178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_97
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 773
+        width: 143
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e9c4bb070889d4d8945ff636986af6
+      internalID: 2071618805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_98
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 773
+        width: 142
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a833bc89ef840274ea2212d893c6b56f
+      internalID: -2015169341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_99
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 773
+        width: 143
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c06f1612a605545a7d76fe6c5710c0
+      internalID: 304586131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_100
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 773
+        width: 144
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da15690a098c87543abbf572838de9df
+      internalID: 2012434646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_101
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 773
+        width: 142
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee01be15b80a14a42a59aa2c7b9d875d
+      internalID: -1595859672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_102
+      rect:
+        serializedVersion: 2
+        x: 3979
+        y: 785
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f3e865aad60b741b0896a859beddac
+      internalID: 1566410799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_103
+      rect:
+        serializedVersion: 2
+        x: 4028
+        y: 793
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6672810d4db054a80cf4e2ff4cb3f4
+      internalID: 1010198107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_104
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 750
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e028ab88fd37344ac602f1cc99a66a
+      internalID: 1745955366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_105
+      rect:
+        serializedVersion: 2
+        x: 4087
+        y: 783
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932d3c79498101549ad33ba43b263797
+      internalID: 942912439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_106
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 565
+        width: 96
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f01fdd3e009dae4fa8ba66da818ca89
+      internalID: -343215960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_107
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 565
+        width: 104
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb0e2b8baca9ce4896feeb459e7543a
+      internalID: -1705729653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_108
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 565
+        width: 94
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2750f3a22118d7142a875d6bd2120dcb
+      internalID: 1639446719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_109
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 565
+        width: 103
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f69472ebd25a842951645fed675c51
+      internalID: -1125459235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_110
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 565
+        width: 94
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52b397db6cce2544966be8a8fef7167
+      internalID: 1734763451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_111
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 565
+        width: 102
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782ccb2aca76c9747863b71b4cc188a4
+      internalID: 270106328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_112
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 565
+        width: 96
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8200436cf0b664293685ec135ec97f
+      internalID: 652530867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_113
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 565
+        width: 100
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fed158be113ed4ca2288032fd91ab7
+      internalID: -1076486786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_114
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 561
+        width: 163
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39511c94c5be4c04cb328f11c0b89997
+      internalID: 84909563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_115
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 565
+        width: 94
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa3842cc51f5f94a9db57d203bef0ef
+      internalID: 1053148547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_116
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 565
+        width: 104
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e898f6a95011c344805ccce7efd9ea2
+      internalID: 189948801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_117
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 716
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db43218910a43941be8770f1e337023
+      internalID: 1749857807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_118
+      rect:
+        serializedVersion: 2
+        x: 3943
+        y: 693
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44245951687130c4eaf6bd5f8917d681
+      internalID: 538563596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_119
+      rect:
+        serializedVersion: 2
+        x: 4022
+        y: 754
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add55bb1c032b934d9681b1977e2d536
+      internalID: -947931224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_120
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 565
+        width: 157
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2763b1b2ca7b276409f3e2d53b8a2452
+      internalID: -1143064043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_121
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 730
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754a66fd25338ee4eb4762a2522e42ba
+      internalID: -838366662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_122
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 565
+        width: 156
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103b3ca883fdd4148b81e31db3fbdb6a
+      internalID: -288291890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_123
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 565
+        width: 165
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6c5660c6900ee449f78c380768048b
+      internalID: -2005618870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_124
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 565
+        width: 161
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4aaf44dc8e37444869493ae31de70e
+      internalID: -1639104280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_125
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 695
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c232ba1c5ecff47bb4a15ad11394e1
+      internalID: -1837766215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_126
+      rect:
+        serializedVersion: 2
+        x: 3810
+        y: 685
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0602c056d3904c49b33bc0a8b0f0808
+      internalID: 1973790689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_127
+      rect:
+        serializedVersion: 2
+        x: 4016
+        y: 730
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747d479e4acac3b45ab49cb5d88e3ce3
+      internalID: -1415087597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_128
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 706
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cc21fe6c24ec343bbf1f4d989f8850
+      internalID: -1254902127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_129
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 706
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060c3383b6f155d4b88f8603c5f2ef35
+      internalID: 407593832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_130
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 565
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bfbb4d4a6aa414b91da9cbacc63536
+      internalID: -132434833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_131
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 565
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7b0bbee471c2748a3a743caba41bf3
+      internalID: 602273929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_132
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 565
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3745c023e940b0b43a089e17e4e0a7ea
+      internalID: 907780432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_133
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 565
+        width: 130
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb0e4dc1c0f9bb41b4bd9304f0f27a0
+      internalID: 1978015681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_134
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 565
+        width: 131
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e46a6b3fbb31e54792663a51508fffe
+      internalID: -1503472049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_135
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 677
+        width: 65
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decc1126895a08049a49c205cfb3608e
+      internalID: -1076922984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_136
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 630
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5e0ed84d07eab499af8168f5748215
+      internalID: 1979546842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_137
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 538
+        width: 67
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2fc0d803422514bb73ed1141b11870
+      internalID: 1275873809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_138
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 538
+        width: 67
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5adc6ff2591bc4ebcbc909d68ec615
+      internalID: -686197313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_139
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 538
+        width: 65
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc12f34e58c45e41b71070a17a89da2
+      internalID: 1832109356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_140
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 538
+        width: 65
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05963e0bb1a56e34f954c262b64dfe58
+      internalID: -402303941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_141
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 538
+        width: 67
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4e7c7ec9b2a2946ad2c3e9f757a646
+      internalID: -80610369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_142
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 538
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33a9df39da0e5947919939779738939
+      internalID: -1653811965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_143
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 365
+        width: 141
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24817a7e64fa844c879d50363987083
+      internalID: -1231376014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_144
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 365
+        width: 140
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2017751a21bbf3343a1eac91d4611376
+      internalID: 2079705730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_145
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 365
+        width: 143
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d338f809abb946b458e139a8e3ba9a5a
+      internalID: 1066061284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_146
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 365
+        width: 143
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9f5069eab06f540a8c81838516ad3b
+      internalID: 505980412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_147
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 365
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c79cd57758e9e429c3711cd2b70b69
+      internalID: 1851557265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_148
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 498
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51530b7306e793c4c9fd4ba7ac6cdfa2
+      internalID: 1008158951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_149
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 498
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b81f35045e4704d863fe217dca5cfd
+      internalID: -256491987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_150
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 222
+        width: 508
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2543362c02394104db919dbfebb71bff
+      internalID: -2102954995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Teacher Bear_151
+      rect:
+        serializedVersion: 2
+        x: 3812
+        y: 122
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478977754c4b60e4096bda6220947aee
+      internalID: -1851712142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - The Battle Cats - Teacher Bear_0: -1173935373
+      Mobile - The Battle Cats - Teacher Bear_1: 1872362440
+      Mobile - The Battle Cats - Teacher Bear_10: -1571092130
+      Mobile - The Battle Cats - Teacher Bear_100: 2012434646
+      Mobile - The Battle Cats - Teacher Bear_101: -1595859672
+      Mobile - The Battle Cats - Teacher Bear_102: 1566410799
+      Mobile - The Battle Cats - Teacher Bear_103: 1010198107
+      Mobile - The Battle Cats - Teacher Bear_104: 1745955366
+      Mobile - The Battle Cats - Teacher Bear_105: 942912439
+      Mobile - The Battle Cats - Teacher Bear_106: -343215960
+      Mobile - The Battle Cats - Teacher Bear_107: -1705729653
+      Mobile - The Battle Cats - Teacher Bear_108: 1639446719
+      Mobile - The Battle Cats - Teacher Bear_109: -1125459235
+      Mobile - The Battle Cats - Teacher Bear_11: -724952883
+      Mobile - The Battle Cats - Teacher Bear_110: 1734763451
+      Mobile - The Battle Cats - Teacher Bear_111: 270106328
+      Mobile - The Battle Cats - Teacher Bear_112: 652530867
+      Mobile - The Battle Cats - Teacher Bear_113: -1076486786
+      Mobile - The Battle Cats - Teacher Bear_114: 84909563
+      Mobile - The Battle Cats - Teacher Bear_115: 1053148547
+      Mobile - The Battle Cats - Teacher Bear_116: 189948801
+      Mobile - The Battle Cats - Teacher Bear_117: 1749857807
+      Mobile - The Battle Cats - Teacher Bear_118: 538563596
+      Mobile - The Battle Cats - Teacher Bear_119: -947931224
+      Mobile - The Battle Cats - Teacher Bear_12: 1521654168
+      Mobile - The Battle Cats - Teacher Bear_120: -1143064043
+      Mobile - The Battle Cats - Teacher Bear_121: -838366662
+      Mobile - The Battle Cats - Teacher Bear_122: -288291890
+      Mobile - The Battle Cats - Teacher Bear_123: -2005618870
+      Mobile - The Battle Cats - Teacher Bear_124: -1639104280
+      Mobile - The Battle Cats - Teacher Bear_125: -1837766215
+      Mobile - The Battle Cats - Teacher Bear_126: 1973790689
+      Mobile - The Battle Cats - Teacher Bear_127: -1415087597
+      Mobile - The Battle Cats - Teacher Bear_128: -1254902127
+      Mobile - The Battle Cats - Teacher Bear_129: 407593832
+      Mobile - The Battle Cats - Teacher Bear_13: -1183968786
+      Mobile - The Battle Cats - Teacher Bear_130: -132434833
+      Mobile - The Battle Cats - Teacher Bear_131: 602273929
+      Mobile - The Battle Cats - Teacher Bear_132: 907780432
+      Mobile - The Battle Cats - Teacher Bear_133: 1978015681
+      Mobile - The Battle Cats - Teacher Bear_134: -1503472049
+      Mobile - The Battle Cats - Teacher Bear_135: -1076922984
+      Mobile - The Battle Cats - Teacher Bear_136: 1979546842
+      Mobile - The Battle Cats - Teacher Bear_137: 1275873809
+      Mobile - The Battle Cats - Teacher Bear_138: -686197313
+      Mobile - The Battle Cats - Teacher Bear_139: 1832109356
+      Mobile - The Battle Cats - Teacher Bear_14: -359936000
+      Mobile - The Battle Cats - Teacher Bear_140: -402303941
+      Mobile - The Battle Cats - Teacher Bear_141: -80610369
+      Mobile - The Battle Cats - Teacher Bear_142: -1653811965
+      Mobile - The Battle Cats - Teacher Bear_143: -1231376014
+      Mobile - The Battle Cats - Teacher Bear_144: 2079705730
+      Mobile - The Battle Cats - Teacher Bear_145: 1066061284
+      Mobile - The Battle Cats - Teacher Bear_146: 505980412
+      Mobile - The Battle Cats - Teacher Bear_147: 1851557265
+      Mobile - The Battle Cats - Teacher Bear_148: 1008158951
+      Mobile - The Battle Cats - Teacher Bear_149: -256491987
+      Mobile - The Battle Cats - Teacher Bear_15: 597242510
+      Mobile - The Battle Cats - Teacher Bear_150: -2102954995
+      Mobile - The Battle Cats - Teacher Bear_151: -1851712142
+      Mobile - The Battle Cats - Teacher Bear_16: -1205085707
+      Mobile - The Battle Cats - Teacher Bear_17: 1563387294
+      Mobile - The Battle Cats - Teacher Bear_18: 1019869644
+      Mobile - The Battle Cats - Teacher Bear_19: -1590897741
+      Mobile - The Battle Cats - Teacher Bear_2: -873958153
+      Mobile - The Battle Cats - Teacher Bear_20: -29310319
+      Mobile - The Battle Cats - Teacher Bear_21: -176257330
+      Mobile - The Battle Cats - Teacher Bear_22: -907263129
+      Mobile - The Battle Cats - Teacher Bear_23: -1805595697
+      Mobile - The Battle Cats - Teacher Bear_24: 1624288895
+      Mobile - The Battle Cats - Teacher Bear_25: 1895888639
+      Mobile - The Battle Cats - Teacher Bear_26: 1982718282
+      Mobile - The Battle Cats - Teacher Bear_27: -2952757
+      Mobile - The Battle Cats - Teacher Bear_28: 1677467959
+      Mobile - The Battle Cats - Teacher Bear_29: -151079870
+      Mobile - The Battle Cats - Teacher Bear_3: 166088390
+      Mobile - The Battle Cats - Teacher Bear_30: 1526674534
+      Mobile - The Battle Cats - Teacher Bear_31: 1763470347
+      Mobile - The Battle Cats - Teacher Bear_32: -1738029756
+      Mobile - The Battle Cats - Teacher Bear_33: -1614343390
+      Mobile - The Battle Cats - Teacher Bear_34: -1571784235
+      Mobile - The Battle Cats - Teacher Bear_35: -738793623
+      Mobile - The Battle Cats - Teacher Bear_36: -539365570
+      Mobile - The Battle Cats - Teacher Bear_37: -1159228976
+      Mobile - The Battle Cats - Teacher Bear_38: -372695737
+      Mobile - The Battle Cats - Teacher Bear_39: 504184389
+      Mobile - The Battle Cats - Teacher Bear_4: -783633064
+      Mobile - The Battle Cats - Teacher Bear_40: 112144853
+      Mobile - The Battle Cats - Teacher Bear_41: -382244665
+      Mobile - The Battle Cats - Teacher Bear_42: -1434451610
+      Mobile - The Battle Cats - Teacher Bear_43: 270079073
+      Mobile - The Battle Cats - Teacher Bear_44: -1241063947
+      Mobile - The Battle Cats - Teacher Bear_45: -991316377
+      Mobile - The Battle Cats - Teacher Bear_46: -1253712703
+      Mobile - The Battle Cats - Teacher Bear_47: -1335445849
+      Mobile - The Battle Cats - Teacher Bear_48: 1894989234
+      Mobile - The Battle Cats - Teacher Bear_49: 2020075266
+      Mobile - The Battle Cats - Teacher Bear_5: 303601480
+      Mobile - The Battle Cats - Teacher Bear_50: -271913043
+      Mobile - The Battle Cats - Teacher Bear_51: -1229257907
+      Mobile - The Battle Cats - Teacher Bear_52: -1763927467
+      Mobile - The Battle Cats - Teacher Bear_53: -448204128
+      Mobile - The Battle Cats - Teacher Bear_54: -1212174612
+      Mobile - The Battle Cats - Teacher Bear_55: -947181265
+      Mobile - The Battle Cats - Teacher Bear_56: 1580492078
+      Mobile - The Battle Cats - Teacher Bear_57: 1362889053
+      Mobile - The Battle Cats - Teacher Bear_58: -22062540
+      Mobile - The Battle Cats - Teacher Bear_59: 2119850459
+      Mobile - The Battle Cats - Teacher Bear_6: 1789507858
+      Mobile - The Battle Cats - Teacher Bear_60: 1918334752
+      Mobile - The Battle Cats - Teacher Bear_61: 854308647
+      Mobile - The Battle Cats - Teacher Bear_62: 2113917249
+      Mobile - The Battle Cats - Teacher Bear_63: -676075233
+      Mobile - The Battle Cats - Teacher Bear_64: -691769379
+      Mobile - The Battle Cats - Teacher Bear_65: -196104502
+      Mobile - The Battle Cats - Teacher Bear_66: -109287252
+      Mobile - The Battle Cats - Teacher Bear_67: -1676404444
+      Mobile - The Battle Cats - Teacher Bear_68: 817573538
+      Mobile - The Battle Cats - Teacher Bear_69: -1625501047
+      Mobile - The Battle Cats - Teacher Bear_7: -1209271580
+      Mobile - The Battle Cats - Teacher Bear_70: -230003325
+      Mobile - The Battle Cats - Teacher Bear_71: -1180802350
+      Mobile - The Battle Cats - Teacher Bear_72: -1076863557
+      Mobile - The Battle Cats - Teacher Bear_73: -1214801897
+      Mobile - The Battle Cats - Teacher Bear_74: 1293478161
+      Mobile - The Battle Cats - Teacher Bear_75: -842648321
+      Mobile - The Battle Cats - Teacher Bear_76: 1939228325
+      Mobile - The Battle Cats - Teacher Bear_77: -1691902282
+      Mobile - The Battle Cats - Teacher Bear_78: 52900744
+      Mobile - The Battle Cats - Teacher Bear_79: -1196231810
+      Mobile - The Battle Cats - Teacher Bear_8: -2024855538
+      Mobile - The Battle Cats - Teacher Bear_80: 401094214
+      Mobile - The Battle Cats - Teacher Bear_81: -755570194
+      Mobile - The Battle Cats - Teacher Bear_82: -206715405
+      Mobile - The Battle Cats - Teacher Bear_83: -893508824
+      Mobile - The Battle Cats - Teacher Bear_84: 1080600309
+      Mobile - The Battle Cats - Teacher Bear_85: -1950195699
+      Mobile - The Battle Cats - Teacher Bear_86: 365495352
+      Mobile - The Battle Cats - Teacher Bear_87: -1588524070
+      Mobile - The Battle Cats - Teacher Bear_88: -433251881
+      Mobile - The Battle Cats - Teacher Bear_89: 682258004
+      Mobile - The Battle Cats - Teacher Bear_9: -1547158775
+      Mobile - The Battle Cats - Teacher Bear_90: -1888814530
+      Mobile - The Battle Cats - Teacher Bear_91: 1425561890
+      Mobile - The Battle Cats - Teacher Bear_92: -1735500062
+      Mobile - The Battle Cats - Teacher Bear_93: 1501736183
+      Mobile - The Battle Cats - Teacher Bear_94: -27926926
+      Mobile - The Battle Cats - Teacher Bear_95: 1191522793
+      Mobile - The Battle Cats - Teacher Bear_96: -538938178
+      Mobile - The Battle Cats - Teacher Bear_97: 2071618805
+      Mobile - The Battle Cats - Teacher Bear_98: -2015169341
+      Mobile - The Battle Cats - Teacher Bear_99: 304586131
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
