@@ -108,7 +108,3577 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 504
+        width: 73
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed60c077624d89439fa549195db4f3f
+      internalID: 588845838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 504
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc7c4c3f5bb6464aa1a646a40525e04
+      internalID: -1903594138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 504
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a669c34ab59134f922e9dba6cea155
+      internalID: 351534264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_3
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 504
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02db027172716a42bf4603ce3df5100
+      internalID: 820811132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_4
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 504
+        width: 62
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72761ebdd33c1534f9de17c01b4bbbd4
+      internalID: -1006843924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_5
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 504
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaebf89aa8c38c4f8cdff12f23d1f92
+      internalID: -285094342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_6
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 504
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc2bae8c19766845818aee5e6569a13
+      internalID: 2037925460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_7
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 504
+        width: 91
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f771284225b80445b80dd8baa14a533
+      internalID: 237427780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_8
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 504
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60830ef3214204a448f5d8d859bafa50
+      internalID: 1471866269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_9
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 504
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa8bff1da21fcd4e838a472634c2e84
+      internalID: 2067477946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_10
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 504
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcdf3d5a96f7fb4ba0f590593a8ee56
+      internalID: 652163396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 478
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58717f427a98b4546877221c0eeb9b4a
+      internalID: 1832319976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_12
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 478
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bd776a08b27bb4abc431e5ba7a464f
+      internalID: 852174253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_13
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 478
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0bcb7b4d4c40740a44baaee92e13f1
+      internalID: 1949658899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_14
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 412
+        width: 22
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bb5a51873979b47bec1a7c87592a86
+      internalID: -1092451546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 409
+        width: 95
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82d86c4120d5594ca715f10445d418b
+      internalID: -688323722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 409
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c740ea33c1e7bcd409230b161a02d95e
+      internalID: -504462815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_17
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 409
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad03c6aece88124a870f13d2b1b2f4f
+      internalID: -1290131755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 409
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe784c01c5959224e9fba014f581fe6b
+      internalID: 1434273750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 409
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e454f19c68070454fbabc264006caa96
+      internalID: 1526171971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_20
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 325
+        width: 49
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a47a0f49192bf4099f009c4bb39e5d
+      internalID: 95928261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_21
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 325
+        width: 53
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973547ca3f829a7429ab12251101f507
+      internalID: -107113139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_22
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 409
+        width: 95
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92db92ef7e809444eacb5d8b70e1ecf1
+      internalID: -2143225581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_23
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 409
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dd6223ba501624db17ae145e25c838
+      internalID: 2091603638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_24
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 409
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46a00b4fcefaad4daac45da3a9c1a8f
+      internalID: -1882547772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_25
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 409
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6568c5ff6c2a54eadc27f27743965f
+      internalID: 663568131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_26
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 409
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3ab13a3cdb7b543af35bbdc3ddecc9
+      internalID: -142781511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_27
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 325
+        width: 58
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a334960bbd7bf54e9f8bec335850692
+      internalID: -1964035589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_28
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 325
+        width: 57
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c62000ae906d83478d2abc387ce3cb3
+      internalID: -714246148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_29
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 412
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f77830343984743ac0c49173787834
+      internalID: -95717214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_30
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 412
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314d8462f1cfb3f44948b1531c285269
+      internalID: 911170029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_31
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 413
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd597a45681a1c541906ffc24ff7e26b
+      internalID: 355403854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_32
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 413
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1dbb6b18f5297488b003086c0dbf8d
+      internalID: 1520325880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_33
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 341
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c789eb9f4ecec5429a7e8fe6242af38
+      internalID: 887946613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 325
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbeb939a207d0b4880d6f5cecf65253
+      internalID: -1465952451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 325
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d9be9221ca04445b33a80979341618
+      internalID: 1079415792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 325
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3447cc12a92b74dbd60bb5e698d491
+      internalID: -1841775792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 325
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0c199f7edae2f428fdd7155c14ba71
+      internalID: -1791441854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 325
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdeec171b5cf15449496c7506b5c7d7
+      internalID: 998385688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 325
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dac2bf79e31ab43b3c65dff0ccde98
+      internalID: -4261732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_40
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 325
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b5ff412da89824699310c272beb313
+      internalID: 1443385675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_41
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 325
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b7fcc7a5b43d74383ee6a4f8d89e45
+      internalID: -1351290484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_42
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 325
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9be5f61a8f6f04684ea0e62765d0a0
+      internalID: 823986097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_43
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 325
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fec4c64d204c464cb08ec76b8699b92
+      internalID: -333706179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_44
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 325
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c5087e9487cee4e90d47c854b5e1ac
+      internalID: -336186796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_45
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 325
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9250f85136ced4f856254d8281f11e
+      internalID: 1511620447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_46
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 341
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd12339d7451aa04790fdb69ddb02788
+      internalID: -1195240992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_47
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 341
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab56b11cbad9df64da40416776d5abf4
+      internalID: 617778031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_48
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 341
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d158d1889eff54496d124a145f103a
+      internalID: 1542900040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_49
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 341
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72542e329ec714d42bc235e72ffa7444
+      internalID: -2014717430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_50
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 341
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093dfecdac622aa4aaa57fbd4864e2bd
+      internalID: -1497388900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_51
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 341
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288b16a8803b4994dbf290edbb674010
+      internalID: 319398608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_52
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 341
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77f781965d71924286d904ab624ca8e
+      internalID: -1041172235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_53
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 341
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01929508cd80d0488096820b6789d57
+      internalID: 1379981437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_54
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 341
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a33f8fd4212e894d94a79c4278640b8
+      internalID: -1668445024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_55
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 341
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c426ca5b1d208745948bf0b2952be0d
+      internalID: -1501148067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_56
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 341
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cf53d57b915df4b881284d81e4f3f3
+      internalID: 1235764950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_57
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 341
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5975e50e9249d945b07ef8f32546746
+      internalID: 1561024144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_58
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 341
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caff6c2b0011bf94281f4e107fa05c48
+      internalID: 966959425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_59
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 341
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500fa50a72085e34d9cedd510a875b31
+      internalID: 1860619959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_60
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 341
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33ef72995426ac4e85a05e2df42ce91
+      internalID: -1511566556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_61
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 341
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729b31c89600dd840a31bfb2a99b9352
+      internalID: 1745561688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_62
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 341
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92636e9ae664e447a2be407c8354722
+      internalID: -895993127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_63
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 341
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02555f55fd834d248be43793342bb60c
+      internalID: 688832012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_64
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 341
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be8e6e6980a2c0449bd47e10029322e
+      internalID: -1802604205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_65
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 341
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399bbf546bcc830418af5acb65a2e3d5
+      internalID: 2135639434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_66
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 341
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d17c007f4da18144a4883627a4a4d83
+      internalID: 1004952605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_67
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 341
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd317da1527f49f4c9dbcb429174a8c3
+      internalID: -1851860788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_68
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 341
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e100fbdc961017d47b3df73213df6608
+      internalID: -788000715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_69
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 264
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dc040eb393e8b49b208295318b52f7
+      internalID: 1256950761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_70
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 264
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f0d4647ccdf324a925b488331917b6
+      internalID: -1787496076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_71
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 264
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e95721c04af83249b4a6cf20c5fdf20
+      internalID: -1689040498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_72
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 264
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c75d776cd7b52e42966bc7eab669d66
+      internalID: 1471135382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_73
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 264
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525adbe2d508d434c87a799ba4908c9a
+      internalID: 1810868170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_74
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 264
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86f0f7f03779424daafb7ae95cdadeb
+      internalID: 233828703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_75
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 264
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177146cd550c1b046883199f597e5567
+      internalID: 1194551779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_76
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 264
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a98344ba571204c8b094b1a0551d1c
+      internalID: 2118539924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_77
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 264
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c29840dc0890848b6220874cc056df
+      internalID: 448288868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_78
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 264
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5311bc6b0b189479775e746de52d6a
+      internalID: 1930055651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_79
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 264
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5530d04f291024444affe1f8fec9a481
+      internalID: 526131208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_80
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 264
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aebd514172bd9347a9e5f9684920318
+      internalID: 447950659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_81
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 264
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e21c9b4772361b498bd2ffa328dd374
+      internalID: 354909593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_82
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 264
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fadf4f313a58e4c92e12eb49a99504
+      internalID: 429610423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_83
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 264
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d5f73ef006f3d41a2dc9083bcb2fba
+      internalID: 781280425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_84
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 264
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a599d29c4c0c9b4a97ecb49d5d75dff
+      internalID: -2101915712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_85
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 264
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0269004e0a99c8443a40a4cc4f2316c0
+      internalID: -1901937613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_86
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 263
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedbe95e52947a641beb4a88f49f0341
+      internalID: 299997976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_87
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 264
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5adf419328dd34aaf3dc711ed6c7c5
+      internalID: 1858206346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_88
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 264
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e24e63913983b4c87c6355d41e53f7
+      internalID: 1695741233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_89
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 264
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80543c74e4edc3442abb62df6c6fcf66
+      internalID: -1962655462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_90
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 264
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11e3f2bfe63d6d468bcc718bfb18d39
+      internalID: 1784890169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_91
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 257
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c5fec50505b984d98814cdfeb9c4e4
+      internalID: 620089459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_92
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 257
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2973dd673cf214d41928a1d7d0508232
+      internalID: 1718879161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_93
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 257
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c244b0fd45e7e543bbd9071199cf9aa
+      internalID: 123023483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_94
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 257
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fe572f2aca89a4ebb397126a6c481d
+      internalID: -1814203259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_95
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 256
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a9408b078fecf40a8057986d0e7033
+      internalID: 405851390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_96
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 256
+        width: 30
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ec3bc1ffcfa6e47aea797fe21598f1
+      internalID: -1974454584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_97
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 257
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e436f14ed5cfee458750af64194c692
+      internalID: -1507167106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_98
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 257
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb44e0a2cce940842be3d8b8f0788a19
+      internalID: -1778878561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_99
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 257
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401aac8b7f1b24f42a023826474230ae
+      internalID: -1245225483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_100
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 257
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001c01f7d6f75964da81e6907a61e8af
+      internalID: -1916027917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_101
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 259
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f602589090ae34d87432d1ed1a6387
+      internalID: -1550944483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_102
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 257
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9faa44b69213342851aa8616fcfaef
+      internalID: -1611946646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_103
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 257
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7bab7191a3f274cb5f6641f43d92ae
+      internalID: 1931787937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_104
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 257
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4cd44f04b769442bf4ae64c1aff8aa
+      internalID: 195612530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_105
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 256
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70a0a729979b3546ad0d13801e4991e
+      internalID: 364358757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_106
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 256
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4057f96712ef4b746bdc48579df94587
+      internalID: -1274532958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_107
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 152
+        width: 114
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236abc39cacad3046824559d57aa1392
+      internalID: -904317379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_108
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 155
+        width: 54
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ed7a3c5ecceae40a30620db9c423be
+      internalID: -1275482970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_109
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 155
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1729f2e0c1d19c42a8fcc11f7f82c93
+      internalID: -1623164050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_110
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 155
+        width: 79
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7db83499a9489a4a925a845fbbff47e
+      internalID: 1701184779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_111
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 155
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2f8beb9243d8346b278b0e99c905f4
+      internalID: 1514311585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_112
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 155
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723e2d741a9b3f84198fface1524441e
+      internalID: -552807050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_113
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 155
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837135be33f317a429777f1f6d2da10a
+      internalID: 332561295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_114
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 155
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7024e96da58a0004586d13c06bd46a0d
+      internalID: 465981790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_115
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 152
+        width: 114
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9acaed4559af394782740409c8a334b
+      internalID: 2121390856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_116
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 152
+        width: 54
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590ad8f748331ba45a20b79144547df4
+      internalID: 1908132192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_117
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 152
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad1e1f180ecb12499639df2f03e0254
+      internalID: 1252913528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_118
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 152
+        width: 79
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa2621c4b0ebcd4fbf5fdf73b070f2b
+      internalID: -1412576301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_119
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 152
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4382c9b8832a12349b3d3f9eedc12d1f
+      internalID: -1487130865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_120
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 152
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4374d04b326c9b49bc158a55425de11
+      internalID: -1492162391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_121
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 152
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2deca14db9c0ba4a9e9f6df5917f231
+      internalID: 1948101925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_122
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 152
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d71ab9c9a0fcd46836f75c30c98d7a
+      internalID: 751809388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_123
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 87
+        width: 47
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1819a27d6429b242a2231d09e4dfbc0
+      internalID: -1067186944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_124
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 90
+        width: 105
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9aa52995c422bb4b9aec7380b6b741e
+      internalID: 363971334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_125
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 134
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3781ff536951a842a80d344ced8ec9e
+      internalID: -1840772548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_126
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 131
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b4884cff57c74428609d3b14bf1c8f
+      internalID: 219113532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_127
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 134
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16daeb5f32a674e4f8216369bb7b033d
+      internalID: 358124830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_128
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 134
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c5034a74f7f474798a194a5035dd3b
+      internalID: -264820806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_129
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 131
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f6699f54340c448b826df2ef6aff28
+      internalID: -1675047446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_130
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 90
+        width: 88
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39da48dd77efc0f4b95247892980db04
+      internalID: 1226830413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_131
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 120
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ccb963f369f224d99df3755c137ca4
+      internalID: -810700834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_132
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 120
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdd1da1aa86e634985799730e70d405
+      internalID: 436325530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_133
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 120
+        width: 63
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b3c41d543f0e84ca0c9fbbaae8d623
+      internalID: 963283825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_134
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 29
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed64b3d35578a44c8db2ea701c0f76b
+      internalID: 597246620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_135
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 29
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c28bbde9e1ca6040b0403de74ef743a
+      internalID: -224460762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_136
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 90
+        width: 100
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd5d7deca741534ebae991e1a72f07c
+      internalID: -929955015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_137
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 101
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b82e7fb46ac654a9c55264cfe0d1f6
+      internalID: 634847731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_138
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 105
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aa546790113614087be1937c0d0094
+      internalID: -1526718563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_139
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 105
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f837e9cb36daede458cf6eb9db7904f2
+      internalID: 2096094044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_140
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 101
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08da1d62cf23b18478c818c0a04ed2ca
+      internalID: -1624674363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_141
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 105
+        width: 59
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a23becdcb87a8499b0b99cd7adbbfe
+      internalID: -2146527708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_142
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 79
+        width: 93
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5e1f1eaed05ae42925b0e7548c638e
+      internalID: -1143821412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_143
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 79
+        width: 90
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdabfddd9c6da049b9788b2627b0706
+      internalID: -93919680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_144
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 86
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8041b350d6a48147b8d719b17eda9c2
+      internalID: 2063336116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_145
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 86
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1792c45560fc64893d505dd28817fd
+      internalID: 1972413602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_146
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 86
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1bcfdbf9b325146907b654d995c85e
+      internalID: 718967840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_147
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 82
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4cba2378e83da408eb355ffbc4b3d3
+      internalID: 1224207375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_148
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 86
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4791354321376545ba8aeb8b34ebf3b
+      internalID: 1089148483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_149
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 86
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ad440d217ba394190a75505edfb187
+      internalID: -2050119348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_150
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 29
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58043ac5f2c4bd438a941858a3ad920
+      internalID: -112158687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_151
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 29
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a29fe4212ea9c47a2b9c96621cf3d2
+      internalID: -2061858682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_152
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 29
+        width: 54
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da55bfa0ae81e3840ba0a4bcc90a1159
+      internalID: 1377297175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_153
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 29
+        width: 121
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbe220d7d1076a4999fbb5498215e13
+      internalID: -776675127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_154
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 3
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b316f91fb191a4ea4f3a37f6a1abce
+      internalID: 372744392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_155
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 3
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275166fbc66a3e1458f9ece81e68dd38
+      internalID: -1722108530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_156
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 5
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe121847a118cb47bcdd7835fd743df
+      internalID: 317607705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_157
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 5
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a665e5c066da445a7f890359e14b44
+      internalID: -1202233466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_158
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 5
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ee949238e010649a9153266fee625e
+      internalID: -1543995341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_159
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 3
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f21ab9d86c759449ea4bece1d75b83
+      internalID: 1411276592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_160
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 3
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f731cfea260b45439657cd2c5e6fbe0
+      internalID: 1251025937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_161
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 5
+        width: 21
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab433d96311c9434c928330ddfe88907
+      internalID: 98650176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_162
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 5
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da1f67cd9a56934a9b2a2adf740b2ab
+      internalID: 1530438769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_163
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 3
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800f34c34775ad24e96a305753dbf54d
+      internalID: -1807040897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_164
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 3
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9585a8f69a265cc44a238f138f288ff2
+      internalID: -1117872192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_165
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 5
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f317f5a1c606a242aa2a22afa77f125
+      internalID: -917752369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_166
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 3
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da249974f25d2c644ae31b6559ba9a9c
+      internalID: -240955753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_167
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 3
+        width: 67
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f83724d042dba4409daa88d1d79d7c0
+      internalID: -789307279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_168
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 5
+        width: 78
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125d278817629214f9d56278125ff661
+      internalID: -1348561610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Bahamut Cat_169
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 5
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6a08175eb84154c9443121b0ddfc27
+      internalID: 240963596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +3689,177 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mobile - The Battle Cats - Bahamut Cat_0: 588845838
+      Mobile - The Battle Cats - Bahamut Cat_1: -1903594138
+      Mobile - The Battle Cats - Bahamut Cat_10: 652163396
+      Mobile - The Battle Cats - Bahamut Cat_100: -1916027917
+      Mobile - The Battle Cats - Bahamut Cat_101: -1550944483
+      Mobile - The Battle Cats - Bahamut Cat_102: -1611946646
+      Mobile - The Battle Cats - Bahamut Cat_103: 1931787937
+      Mobile - The Battle Cats - Bahamut Cat_104: 195612530
+      Mobile - The Battle Cats - Bahamut Cat_105: 364358757
+      Mobile - The Battle Cats - Bahamut Cat_106: -1274532958
+      Mobile - The Battle Cats - Bahamut Cat_107: -904317379
+      Mobile - The Battle Cats - Bahamut Cat_108: -1275482970
+      Mobile - The Battle Cats - Bahamut Cat_109: -1623164050
+      Mobile - The Battle Cats - Bahamut Cat_11: 1832319976
+      Mobile - The Battle Cats - Bahamut Cat_110: 1701184779
+      Mobile - The Battle Cats - Bahamut Cat_111: 1514311585
+      Mobile - The Battle Cats - Bahamut Cat_112: -552807050
+      Mobile - The Battle Cats - Bahamut Cat_113: 332561295
+      Mobile - The Battle Cats - Bahamut Cat_114: 465981790
+      Mobile - The Battle Cats - Bahamut Cat_115: 2121390856
+      Mobile - The Battle Cats - Bahamut Cat_116: 1908132192
+      Mobile - The Battle Cats - Bahamut Cat_117: 1252913528
+      Mobile - The Battle Cats - Bahamut Cat_118: -1412576301
+      Mobile - The Battle Cats - Bahamut Cat_119: -1487130865
+      Mobile - The Battle Cats - Bahamut Cat_12: 852174253
+      Mobile - The Battle Cats - Bahamut Cat_120: -1492162391
+      Mobile - The Battle Cats - Bahamut Cat_121: 1948101925
+      Mobile - The Battle Cats - Bahamut Cat_122: 751809388
+      Mobile - The Battle Cats - Bahamut Cat_123: -1067186944
+      Mobile - The Battle Cats - Bahamut Cat_124: 363971334
+      Mobile - The Battle Cats - Bahamut Cat_125: -1840772548
+      Mobile - The Battle Cats - Bahamut Cat_126: 219113532
+      Mobile - The Battle Cats - Bahamut Cat_127: 358124830
+      Mobile - The Battle Cats - Bahamut Cat_128: -264820806
+      Mobile - The Battle Cats - Bahamut Cat_129: -1675047446
+      Mobile - The Battle Cats - Bahamut Cat_13: 1949658899
+      Mobile - The Battle Cats - Bahamut Cat_130: 1226830413
+      Mobile - The Battle Cats - Bahamut Cat_131: -810700834
+      Mobile - The Battle Cats - Bahamut Cat_132: 436325530
+      Mobile - The Battle Cats - Bahamut Cat_133: 963283825
+      Mobile - The Battle Cats - Bahamut Cat_134: 597246620
+      Mobile - The Battle Cats - Bahamut Cat_135: -224460762
+      Mobile - The Battle Cats - Bahamut Cat_136: -929955015
+      Mobile - The Battle Cats - Bahamut Cat_137: 634847731
+      Mobile - The Battle Cats - Bahamut Cat_138: -1526718563
+      Mobile - The Battle Cats - Bahamut Cat_139: 2096094044
+      Mobile - The Battle Cats - Bahamut Cat_14: -1092451546
+      Mobile - The Battle Cats - Bahamut Cat_140: -1624674363
+      Mobile - The Battle Cats - Bahamut Cat_141: -2146527708
+      Mobile - The Battle Cats - Bahamut Cat_142: -1143821412
+      Mobile - The Battle Cats - Bahamut Cat_143: -93919680
+      Mobile - The Battle Cats - Bahamut Cat_144: 2063336116
+      Mobile - The Battle Cats - Bahamut Cat_145: 1972413602
+      Mobile - The Battle Cats - Bahamut Cat_146: 718967840
+      Mobile - The Battle Cats - Bahamut Cat_147: 1224207375
+      Mobile - The Battle Cats - Bahamut Cat_148: 1089148483
+      Mobile - The Battle Cats - Bahamut Cat_149: -2050119348
+      Mobile - The Battle Cats - Bahamut Cat_15: -688323722
+      Mobile - The Battle Cats - Bahamut Cat_150: -112158687
+      Mobile - The Battle Cats - Bahamut Cat_151: -2061858682
+      Mobile - The Battle Cats - Bahamut Cat_152: 1377297175
+      Mobile - The Battle Cats - Bahamut Cat_153: -776675127
+      Mobile - The Battle Cats - Bahamut Cat_154: 372744392
+      Mobile - The Battle Cats - Bahamut Cat_155: -1722108530
+      Mobile - The Battle Cats - Bahamut Cat_156: 317607705
+      Mobile - The Battle Cats - Bahamut Cat_157: -1202233466
+      Mobile - The Battle Cats - Bahamut Cat_158: -1543995341
+      Mobile - The Battle Cats - Bahamut Cat_159: 1411276592
+      Mobile - The Battle Cats - Bahamut Cat_16: -504462815
+      Mobile - The Battle Cats - Bahamut Cat_160: 1251025937
+      Mobile - The Battle Cats - Bahamut Cat_161: 98650176
+      Mobile - The Battle Cats - Bahamut Cat_162: 1530438769
+      Mobile - The Battle Cats - Bahamut Cat_163: -1807040897
+      Mobile - The Battle Cats - Bahamut Cat_164: -1117872192
+      Mobile - The Battle Cats - Bahamut Cat_165: -917752369
+      Mobile - The Battle Cats - Bahamut Cat_166: -240955753
+      Mobile - The Battle Cats - Bahamut Cat_167: -789307279
+      Mobile - The Battle Cats - Bahamut Cat_168: -1348561610
+      Mobile - The Battle Cats - Bahamut Cat_169: 240963596
+      Mobile - The Battle Cats - Bahamut Cat_17: -1290131755
+      Mobile - The Battle Cats - Bahamut Cat_18: 1434273750
+      Mobile - The Battle Cats - Bahamut Cat_19: 1526171971
+      Mobile - The Battle Cats - Bahamut Cat_2: 351534264
+      Mobile - The Battle Cats - Bahamut Cat_20: 95928261
+      Mobile - The Battle Cats - Bahamut Cat_21: -107113139
+      Mobile - The Battle Cats - Bahamut Cat_22: -2143225581
+      Mobile - The Battle Cats - Bahamut Cat_23: 2091603638
+      Mobile - The Battle Cats - Bahamut Cat_24: -1882547772
+      Mobile - The Battle Cats - Bahamut Cat_25: 663568131
+      Mobile - The Battle Cats - Bahamut Cat_26: -142781511
+      Mobile - The Battle Cats - Bahamut Cat_27: -1964035589
+      Mobile - The Battle Cats - Bahamut Cat_28: -714246148
+      Mobile - The Battle Cats - Bahamut Cat_29: -95717214
+      Mobile - The Battle Cats - Bahamut Cat_3: 820811132
+      Mobile - The Battle Cats - Bahamut Cat_30: 911170029
+      Mobile - The Battle Cats - Bahamut Cat_31: 355403854
+      Mobile - The Battle Cats - Bahamut Cat_32: 1520325880
+      Mobile - The Battle Cats - Bahamut Cat_33: 887946613
+      Mobile - The Battle Cats - Bahamut Cat_34: -1465952451
+      Mobile - The Battle Cats - Bahamut Cat_35: 1079415792
+      Mobile - The Battle Cats - Bahamut Cat_36: -1841775792
+      Mobile - The Battle Cats - Bahamut Cat_37: -1791441854
+      Mobile - The Battle Cats - Bahamut Cat_38: 998385688
+      Mobile - The Battle Cats - Bahamut Cat_39: -4261732
+      Mobile - The Battle Cats - Bahamut Cat_4: -1006843924
+      Mobile - The Battle Cats - Bahamut Cat_40: 1443385675
+      Mobile - The Battle Cats - Bahamut Cat_41: -1351290484
+      Mobile - The Battle Cats - Bahamut Cat_42: 823986097
+      Mobile - The Battle Cats - Bahamut Cat_43: -333706179
+      Mobile - The Battle Cats - Bahamut Cat_44: -336186796
+      Mobile - The Battle Cats - Bahamut Cat_45: 1511620447
+      Mobile - The Battle Cats - Bahamut Cat_46: -1195240992
+      Mobile - The Battle Cats - Bahamut Cat_47: 617778031
+      Mobile - The Battle Cats - Bahamut Cat_48: 1542900040
+      Mobile - The Battle Cats - Bahamut Cat_49: -2014717430
+      Mobile - The Battle Cats - Bahamut Cat_5: -285094342
+      Mobile - The Battle Cats - Bahamut Cat_50: -1497388900
+      Mobile - The Battle Cats - Bahamut Cat_51: 319398608
+      Mobile - The Battle Cats - Bahamut Cat_52: -1041172235
+      Mobile - The Battle Cats - Bahamut Cat_53: 1379981437
+      Mobile - The Battle Cats - Bahamut Cat_54: -1668445024
+      Mobile - The Battle Cats - Bahamut Cat_55: -1501148067
+      Mobile - The Battle Cats - Bahamut Cat_56: 1235764950
+      Mobile - The Battle Cats - Bahamut Cat_57: 1561024144
+      Mobile - The Battle Cats - Bahamut Cat_58: 966959425
+      Mobile - The Battle Cats - Bahamut Cat_59: 1860619959
+      Mobile - The Battle Cats - Bahamut Cat_6: 2037925460
+      Mobile - The Battle Cats - Bahamut Cat_60: -1511566556
+      Mobile - The Battle Cats - Bahamut Cat_61: 1745561688
+      Mobile - The Battle Cats - Bahamut Cat_62: -895993127
+      Mobile - The Battle Cats - Bahamut Cat_63: 688832012
+      Mobile - The Battle Cats - Bahamut Cat_64: -1802604205
+      Mobile - The Battle Cats - Bahamut Cat_65: 2135639434
+      Mobile - The Battle Cats - Bahamut Cat_66: 1004952605
+      Mobile - The Battle Cats - Bahamut Cat_67: -1851860788
+      Mobile - The Battle Cats - Bahamut Cat_68: -788000715
+      Mobile - The Battle Cats - Bahamut Cat_69: 1256950761
+      Mobile - The Battle Cats - Bahamut Cat_7: 237427780
+      Mobile - The Battle Cats - Bahamut Cat_70: -1787496076
+      Mobile - The Battle Cats - Bahamut Cat_71: -1689040498
+      Mobile - The Battle Cats - Bahamut Cat_72: 1471135382
+      Mobile - The Battle Cats - Bahamut Cat_73: 1810868170
+      Mobile - The Battle Cats - Bahamut Cat_74: 233828703
+      Mobile - The Battle Cats - Bahamut Cat_75: 1194551779
+      Mobile - The Battle Cats - Bahamut Cat_76: 2118539924
+      Mobile - The Battle Cats - Bahamut Cat_77: 448288868
+      Mobile - The Battle Cats - Bahamut Cat_78: 1930055651
+      Mobile - The Battle Cats - Bahamut Cat_79: 526131208
+      Mobile - The Battle Cats - Bahamut Cat_8: 1471866269
+      Mobile - The Battle Cats - Bahamut Cat_80: 447950659
+      Mobile - The Battle Cats - Bahamut Cat_81: 354909593
+      Mobile - The Battle Cats - Bahamut Cat_82: 429610423
+      Mobile - The Battle Cats - Bahamut Cat_83: 781280425
+      Mobile - The Battle Cats - Bahamut Cat_84: -2101915712
+      Mobile - The Battle Cats - Bahamut Cat_85: -1901937613
+      Mobile - The Battle Cats - Bahamut Cat_86: 299997976
+      Mobile - The Battle Cats - Bahamut Cat_87: 1858206346
+      Mobile - The Battle Cats - Bahamut Cat_88: 1695741233
+      Mobile - The Battle Cats - Bahamut Cat_89: -1962655462
+      Mobile - The Battle Cats - Bahamut Cat_9: 2067477946
+      Mobile - The Battle Cats - Bahamut Cat_90: 1784890169
+      Mobile - The Battle Cats - Bahamut Cat_91: 620089459
+      Mobile - The Battle Cats - Bahamut Cat_92: 1718879161
+      Mobile - The Battle Cats - Bahamut Cat_93: 123023483
+      Mobile - The Battle Cats - Bahamut Cat_94: -1814203259
+      Mobile - The Battle Cats - Bahamut Cat_95: 405851390
+      Mobile - The Battle Cats - Bahamut Cat_96: -1974454584
+      Mobile - The Battle Cats - Bahamut Cat_97: -1507167106
+      Mobile - The Battle Cats - Bahamut Cat_98: -1778878561
+      Mobile - The Battle Cats - Bahamut Cat_99: -1245225483
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

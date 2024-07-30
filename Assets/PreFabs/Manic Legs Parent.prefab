@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4414614417985365172}
   - component: {fileID: 8691654536735772576}
   - component: {fileID: 1661641215948121072}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Manic Legs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26,13 +26,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2703896168835984280}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: 0, y: 0, z: -0.043619405, w: 0.9990483}
+  m_LocalPosition: {x: 0.1, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4371957750677369068}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -5}
 --- !u!212 &8691654536735772576
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -116,7 +116,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4371957750677369068}
   - component: {fileID: 46024111066462938}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Manic Legs Parent
   m_TagString: Untagged
   m_Icon: {fileID: 0}

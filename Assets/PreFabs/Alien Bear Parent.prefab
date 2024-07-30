@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8317305713015078412}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Alien Bear Parent
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42,7 +42,8 @@ GameObject:
   m_Component:
   - component: {fileID: 4684799132227702415}
   - component: {fileID: 7666932239840238302}
-  m_Layer: 0
+  - component: {fileID: 7481286185493820174}
+  m_Layer: 7
   m_Name: Mobile - The Battle Cats - Teacher Bear_24
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -58,7 +59,7 @@ Transform:
   m_GameObject: {fileID: 6421418963116098329}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.7409444, y: -1.2036041, z: -0.0623183}
+  m_LocalPosition: {x: 2.7409444, y: -1.203604, z: -0.0623183}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -116,3 +117,24 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &7481286185493820174
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6421418963116098329}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ea0461761a54d8a45a110c06aa6d5278, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

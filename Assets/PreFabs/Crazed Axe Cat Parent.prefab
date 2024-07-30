@@ -10,7 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 930322348652058735}
   - component: {fileID: 5821348834889548424}
-  m_Layer: 0
+  - component: {fileID: 4814105803725360702}
+  m_Layer: 6
   m_Name: Crazed Axe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -84,6 +85,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &4814105803725360702
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5085978145021795497}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f41de248fec3a944c98f60a069edbd37, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &5595915350767374582
 GameObject:
   m_ObjectHideFlags: 0
@@ -93,7 +115,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1355716098415100663}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Crazed Axe Cat Parent
   m_TagString: Untagged
   m_Icon: {fileID: 0}

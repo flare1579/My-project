@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,7 +108,385 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Croco_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 188
+        width: 85
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1c07535c65cb745a83168ac0326585
+      internalID: 1470722375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Croco_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 188
+        width: 86
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438579c5d1803cb4ba8e7567e49cd39f
+      internalID: -826212424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Croco_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 188
+        width: 86
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32413f2db1bdbbf468bbdf59c57a1dee
+      internalID: -1904695682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Croco_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 188
+        width: 86
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca338ae2a2aca89479eaba66824275b6
+      internalID: 1356404445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Croco_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 188
+        width: 85
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdb6d3e9ad3daa439cfb3bf1fcea242
+      internalID: -2101207037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Croco_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 119
+        width: 85
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc895e79a7c36b418ac101288f02188
+      internalID: -1200395706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Croco_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 119
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9b246479b2c0248ba3345d065c900a
+      internalID: -925264563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Croco_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 119
+        width: 84
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21812d51552d5094b80259dd90181904
+      internalID: -2051657903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Croco_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 119
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d4bd42b1d4a9c448aad3cb96cb704e
+      internalID: 1073029736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Croco_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 119
+        width: 85
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f89c7dda58cf8e498fe480062d77fa0
+      internalID: -2087294319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Croco_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 50
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec5a509bc653b84d8bf8af95e9740a1
+      internalID: 196745433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Croco_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 35
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9c121529b29c546b607701101fa38f
+      internalID: -317239365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Croco_12
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 50
+        width: 84
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36860844b610b34a8bd9053cdfdcc1e
+      internalID: -744622371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Croco_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 35
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261af02a4bcedcb4f95782e35e3da747
+      internalID: 366329904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Croco_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 35
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b7195d6f0e3e44f836f1b0919c533f
+      internalID: -400938391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Croco_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 35
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7702458da02330d4cb9610bdf14b6132
+      internalID: 352669026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Croco_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 35
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020e69b8cd8c58c41be782e7b44908f9
+      internalID: 1116279570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Croco_17
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 35
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec6694057d12344491ebdbdf52486bc
+      internalID: 1331452837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +497,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mobile - The Battle Cats - Croco_0: 1470722375
+      Mobile - The Battle Cats - Croco_1: -826212424
+      Mobile - The Battle Cats - Croco_10: 196745433
+      Mobile - The Battle Cats - Croco_11: -317239365
+      Mobile - The Battle Cats - Croco_12: -744622371
+      Mobile - The Battle Cats - Croco_13: 366329904
+      Mobile - The Battle Cats - Croco_14: -400938391
+      Mobile - The Battle Cats - Croco_15: 352669026
+      Mobile - The Battle Cats - Croco_16: 1116279570
+      Mobile - The Battle Cats - Croco_17: 1331452837
+      Mobile - The Battle Cats - Croco_2: -1904695682
+      Mobile - The Battle Cats - Croco_3: 1356404445
+      Mobile - The Battle Cats - Croco_4: -2101207037
+      Mobile - The Battle Cats - Croco_5: -1200395706
+      Mobile - The Battle Cats - Croco_6: -925264563
+      Mobile - The Battle Cats - Croco_7: -2051657903
+      Mobile - The Battle Cats - Croco_8: 1073029736
+      Mobile - The Battle Cats - Croco_9: -2087294319
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
