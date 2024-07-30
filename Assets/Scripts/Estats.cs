@@ -26,18 +26,10 @@ public class Estats : MonoBehaviour
     }
     private void Update()
     {
-        if (_animator.GetBool("Walk"))
-        {
             _rigidbody2D.velocity = new Vector2(WSpeed * XMovement, _rigidbody2D.velocity.y);
-        }
         if (HP <= 0)
         {
             StartCoroutine(Death());
-        }
-        if (!_animator.GetBool("Attack"))
-        {
-            coundown -= Time.deltaTime;
-            if (coundown < 0) { _animator.SetBool("Attack", true); coundown = timer; }
         }
     }
 
@@ -53,10 +45,9 @@ public class Estats : MonoBehaviour
         Instantiate(self, GameObject.Find("Base").transform);
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerExit2D(Collider2D collision)
     {
-        _animator.SetBool("Walk", false);
-        _animator.SetBool("Attack", true);
+        _animator.SetBool("attack", false);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -65,9 +56,12 @@ public class Estats : MonoBehaviour
         {
             HP -= collision.GetComponentInChildren<Estats>().damage;
         }
+        if (!_animator.GetBool("Attack"))
+        {
+            coundown -= Time.deltaTime;
+            if (coundown < 0) { _animator.SetBool("attack", true); coundown = timer; }
+        }
     }
-
-
 
     private void OnCollisionExit2D(Collision2D collision)
     {
