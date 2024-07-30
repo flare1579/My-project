@@ -8,10 +8,11 @@ public class Estats : MonoBehaviour
     public float WSpeed;
     public float ASpeed;
     public float damage;
-    private Animator _animator;
+    public Animator _animator;
     private Rigidbody2D _rigidbody2D;
     public GameObject self;
     private Transform _transform;
+    private float XMovement = 1;
     private float timer = 1f;
     private float coundown;
     private string Enemytag = "Cat";
@@ -25,18 +26,18 @@ public class Estats : MonoBehaviour
     }
     private void Update()
     {
-        if (_animator.GetBool("walk"))
+        if (_animator.GetBool("Walk"))
         {
-            _rigidbody2D.velocity = new Vector2(WSpeed * 1, _rigidbody2D.velocity.y);
+            _rigidbody2D.velocity = new Vector2(WSpeed * XMovement, _rigidbody2D.velocity.y);
         }
         if (HP <= 0)
         {
             StartCoroutine(Death());
         }
-        if (!_animator.GetBool("attack"))
+        if (!_animator.GetBool("Attack"))
         {
             coundown -= Time.deltaTime;
-            if (coundown < 0) { _animator.SetBool("attack", true); coundown = timer; }
+            if (coundown < 0) { _animator.SetBool("Attack", true); coundown = timer; }
         }
     }
 
@@ -55,7 +56,7 @@ public class Estats : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         _animator.SetBool("Walk", false);
-        _animator.SetBool("attack", true);
+        _animator.SetBool("Attack", true);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

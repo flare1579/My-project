@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 2976037122294088518}
   - component: {fileID: 99146861046814756}
   - component: {fileID: 4056023637619408254}
+  - component: {fileID: 6597182967447372912}
   m_Layer: 7
   m_Name: Mobile - The Battle Cats - Croco_0
   m_TagString: Untagged
@@ -180,6 +181,23 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &6597182967447372912
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7680442979740659714}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a01e77a7f3ee3a647a9a48d03aae5169, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HP: 0
+  WSpeed: 0
+  ASpeed: 0
+  damage: 0
+  self: {fileID: 8339833735007597529}
 --- !u!1 &8339833735007597529
 GameObject:
   m_ObjectHideFlags: 0
