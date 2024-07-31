@@ -156,6 +156,7 @@ Transform:
   - {fileID: 1475500678}
   - {fileID: 423865492}
   - {fileID: 1458974873}
+  - {fileID: 1458974873}
   m_Father: {fileID: 1973934475}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &418499104
@@ -1447,6 +1448,4 @@ SceneRoots:
   - {fileID: 1116730542}
   - {fileID: 1973934475}
   - {fileID: 1479904397}
-=======
-  - {fileID: 653025723}
->>>>>>> Stashed changes
+
