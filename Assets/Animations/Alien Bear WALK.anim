@@ -34,8 +34,10 @@ AnimationClip:
       value: {fileID: -1196231810, guid: f00807e78bbf5334d8d6f01708c32cf2, type: 3}
     - time: 1
       value: {fileID: 401094214, guid: f00807e78bbf5334d8d6f01708c32cf2, type: 3}
+    - time: 1.0166667
+      value: {fileID: 1624288895, guid: f00807e78bbf5334d8d6f01708c32cf2, type: 3}
     attribute: m_Sprite
-    path: Sprite
+    path: Mobile - The Battle Cats - Teacher Bear_24/Sprite
     classID: 212
     script: {fileID: 0}
     flags: 2
@@ -47,7 +49,7 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 850496168
+      path: 3114084277
       attribute: 0
       script: {fileID: 0}
       typeID: 212
@@ -63,12 +65,13 @@ AnimationClip:
     - {fileID: 52900744, guid: f00807e78bbf5334d8d6f01708c32cf2, type: 3}
     - {fileID: -1196231810, guid: f00807e78bbf5334d8d6f01708c32cf2, type: 3}
     - {fileID: 401094214, guid: f00807e78bbf5334d8d6f01708c32cf2, type: 3}
+    - {fileID: 1624288895, guid: f00807e78bbf5334d8d6f01708c32cf2, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 1.0166667
+    m_StopTime: 1.0333333
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0

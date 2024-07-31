@@ -1,5 +1,7 @@
+using JetBrains.Annotations;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.Rendering;
 using UnityEngine;
 
 public class Estats : MonoBehaviour
@@ -8,6 +10,7 @@ public class Estats : MonoBehaviour
     public float WSpeed;
     public float ASpeed;
     public float damage;
+    private SpriteRenderer SpriteRenderer;
     public Animator _animator;
     private Rigidbody2D _rigidbody2D;
     public GameObject self;
@@ -16,17 +19,30 @@ public class Estats : MonoBehaviour
     private float timer = 1f;
     private float coundown;
     private string Enemytag = "Cat";
+    private bool AT=false;
     // Start is called before the first frame update
     private void Start()
     {
-        _animator = GetComponent<Animator>();
+        SpriteRenderer = GetComponentInChildren<SpriteRenderer>();
+        _animator = GetComponentInParent<Animator>();
         _rigidbody2D = GetComponent<Rigidbody2D>();
         timer = timer / ASpeed;
         coundown = timer;
     }
     private void Update()
     {
+        if (AT)
+        {
+            if (!_animator.GetBool("Attack"))
+            {
+                coundown -= Time.deltaTime;
+                if (coundown < 0) { _animator.SetBool("Attack", true); coundown = timer; }
+            }
+        }
+        if (_animator.GetBool("Walk"))
+        {
             _rigidbody2D.velocity = new Vector2(WSpeed * XMovement, _rigidbody2D.velocity.y);
+        }
         if (HP <= 0)
         {
             StartCoroutine(Death());
@@ -45,26 +61,27 @@ public class Estats : MonoBehaviour
         Instantiate(self, GameObject.Find("Base").transform);
     }
 
-    private void OnTriggerExit2D(Collider2D collision)
-    {
-        _animator.SetBool("attack", false);
-    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        Debug.Log(collision.tag);
         if (collision.tag == Enemytag)
         {
-            HP -= collision.GetComponentInChildren<Estats>().damage;
-        }
-        if (!_animator.GetBool("Attack"))
-        {
-            coundown -= Time.deltaTime;
-            if (coundown < 0) { _animator.SetBool("attack", true); coundown = timer; }
+            HP -= collision.GetComponentInChildren<CatStats>().damage;
         }
     }
 
-    private void OnCollisionExit2D(Collision2D collision)
+    public void OnCollisionEnter2D(Collision2D collision)
     {
+        if (collision.gameObject.layer == 8)
+        {
+            AT = true;
+            _animator.SetBool("Walk", false);
+        };
+    }
+    public void OnCollisionExit2D(Collision2D collision)
+    {
+        AT = false;
         _animator.SetBool("Walk", true);
     }
 }
